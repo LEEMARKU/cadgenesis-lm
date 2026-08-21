@@ -1,0 +1,13 @@
+global:
+  scrape_interval: 15s
+  evaluation_interval: 15s
+
+scrape_configs:
+  - job_name: cadgenesis-serve
+    metrics_path: /metrics
+    static_configs:
+      - targets: ["cadgenesis-serve:8000"]
+
+  - job_name: cadgenesis-train
+    static_configs:
+      - targets: ["cadgenesis-train:9091"]

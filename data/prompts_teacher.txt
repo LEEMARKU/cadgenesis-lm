@@ -1,0 +1,120 @@
+a 45mm base plate with 155mm spherical feet
+a cylindrical housing with 35mm radius and 30mm height
+a mounting bracket holding a 160mm rod
+a 140mm base plate with 135mm spherical feet
+a 145mm base plate with 45mm spherical feet
+a cylindrical housing with 75mm radius and 45mm height
+a 45mm x 160mm steel box
+a cylindrical housing with 140mm radius and 110mm height
+a cylindrical housing with 90mm radius and 50mm height
+a 140mm x 130mm steel box
+a cylindrical housing with 90mm radius and 80mm height
+a 120mm x 75mm steel box
+a mounting bracket holding a 160mm rod
+a mounting bracket holding a 100mm rod
+a 125mm x 150mm steel box
+a 55mm x 150mm steel box
+a 160mm base plate with 70mm spherical feet
+a 145mm base plate with 35mm spherical feet
+a 35mm base plate with 80mm spherical feet
+a cylindrical housing with 145mm radius and 90mm height
+a mounting bracket holding a 65mm rod
+a 80mm base plate with 90mm spherical feet
+a cylindrical housing with 85mm radius and 15mm height
+a 105mm x 70mm steel box
+a mounting bracket holding a 145mm rod
+a 15mm x 105mm steel box
+a 50mm x 120mm steel box
+a mounting bracket holding a 145mm rod
+a cylindrical housing with 35mm radius and 30mm height
+a 55mm base plate with 135mm spherical feet
+a mounting bracket holding a 45mm rod
+a mounting bracket holding a 80mm rod
+a 40mm x 90mm steel box
+a 60mm x 35mm steel box
+a 30mm x 20mm steel box
+a cylindrical housing with 115mm radius and 70mm height
+a mounting bracket holding a 80mm rod
+a cylindrical housing with 150mm radius and 40mm height
+a mounting bracket holding a 140mm rod
+a mounting bracket holding a 40mm rod
+a 40mm x 50mm steel box
+a cylindrical housing with 15mm radius and 75mm height
+a mounting bracket holding a 55mm rod
+a 135mm base plate with 65mm spherical feet
+a 125mm x 90mm steel box
+a cylindrical housing with 70mm radius and 110mm height
+a 20mm x 75mm steel box
+a 35mm base plate with 20mm spherical feet
+a 130mm base plate with 110mm spherical feet
+a 65mm base plate with 65mm spherical feet
+a 160mm x 130mm steel box
+a 5mm x 85mm steel box
+a 70mm base plate with 130mm spherical feet
+a cylindrical housing with 140mm radius and 15mm height
+a 30mm base plate with 80mm spherical feet
+a 140mm base plate with 115mm spherical feet
+a cylindrical housing with 90mm radius and 25mm height
+a 150mm base plate with 20mm spherical feet
+a 85mm x 45mm steel box
+a 80mm x 85mm steel box
+a mounting bracket holding a 155mm rod
+a cylindrical housing with 125mm radius and 90mm height
+a cylindrical housing with 115mm radius and 115mm height
+a mounting bracket holding a 55mm rod
+a mounting bracket holding a 120mm rod
+a cylindrical housing with 150mm radius and 120mm height
+a 80mm base plate with 25mm spherical feet
+a 35mm base plate with 35mm spherical feet
+a mounting bracket holding a 120mm rod
+a 110mm x 40mm steel box
+a mounting bracket holding a 70mm rod
+a cylindrical housing with 10mm radius and 30mm height
+a 55mm x 150mm steel box
+a mounting bracket holding a 30mm rod
+a cylindrical housing with 125mm radius and 35mm height
+a 85mm x 5mm steel box
+a 55mm x 80mm steel box
+a mounting bracket holding a 85mm rod
+a mounting bracket holding a 45mm rod
+a cylindrical housing with 135mm radius and 75mm height
+a cylindrical housing with 95mm radius and 30mm height
+a cylindrical housing with 5mm radius and 55mm height
+a mounting bracket holding a 40mm rod
+a 75mm base plate with 25mm spherical feet
+a cylindrical housing with 95mm radius and 120mm height
+a mounting bracket holding a 100mm rod
+a mounting bracket holding a 10mm rod
+a mounting bracket holding a 5mm rod
+a 25mm base plate with 15mm spherical feet
+a cylindrical housing with 70mm radius and 75mm height
+a 75mm base plate with 75mm spherical feet
+a 150mm x 50mm steel box
+a 110mm base plate with 25mm spherical feet
+a mounting bracket holding a 20mm rod
+a 20mm base plate with 75mm spherical feet
+a mounting bracket holding a 25mm rod
+a 160mm base plate with 155mm spherical feet
+a cylindrical housing with 55mm radius and 120mm height
+a 25mm x 70mm steel box
+a cylindrical housing with 75mm radius and 35mm height
+a cylindrical housing with 125mm radius and 30mm height
+a mounting bracket holding a 105mm rod
+a 110mm base plate with 10mm spherical feet
+a mounting bracket holding a 130mm rod
+a mounting bracket holding a 30mm rod
+a 140mm base plate with 60mm spherical feet
+a 5mm base plate with 25mm spherical feet
+a mounting bracket holding a 80mm rod
+a 95mm x 140mm steel box
+a 130mm x 90mm steel box
+a 100mm x 65mm steel box
+a 90mm base plate with 150mm spherical feet
+a 80mm base plate with 155mm spherical feet
+a 75mm x 105mm steel box
+a 25mm x 125mm steel box
+a cylindrical housing with 40mm radius and 10mm height
+a 55mm x 140mm steel box
+a cylindrical housing with 65mm radius and 25mm height
+a cylindrical housing with 10mm radius and 65mm height
+a 20mm base plate with 5mm spherical feet

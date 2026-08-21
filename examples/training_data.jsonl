@@ -1,0 +1,5 @@
+{"prompt": "Data (TOON):\nid|name|price\nint|str|float\n1|Widget A|9.99\n2|Widget B|15.5\n3|Widget C|20.0\n\nInstructions:\nReturn ids and names for items with price > 10 as a JSON array of objects with keys id and name.", "completion": "[{\"id\":2,\"name\":\"Widget B\"},{\"id\":3,\"name\":\"Widget C\"}]\n"}
+{"prompt": "Data (TOON):\nid|user|active\nint|str|bool\n10|alice|True\n11|bob|False\n\nInstructions:\nList the user names for active users only, as a comma-separated string.", "completion": "alice\n"}
+{"prompt": "Data (TOON):\nid|text|severity\nint|str|str\n101|Error at module A|high\n102|Timeout in module B|low\n\nInstructions:\nReturn ids of logs that have severity 'high' as a JSON array.", "completion": "[{\"id\":101}]\n"}
+{"prompt": "Data (TOON):\nproduct|qty|location\nstr|int|str\nScrew|4|A1\nBolt|0|B2\n\nInstructions:\nReturn products that are out of stock (qty == 0) as a JSON array of product names.", "completion": "[\"Bolt\"]\n"}
+{"prompt": "Data (TOON):\nid|score\nint|float\n1|0.92\n2|0.76\n3|0.88\n\nInstructions:\nReturn the id of the highest scoring item as an integer (no JSON).", "completion": "1\n"}

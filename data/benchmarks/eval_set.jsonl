@@ -1,0 +1,103 @@
+{"id": "eval_0", "type": "other", "dsl": "synth", "text": "a cylindrical housing with 155mm radius and 160mm height", "cad": ["CYLINDER", "NUM_039", "EXTRUDE", "NUM_040", "BOX"]}
+{"id": "eval_1", "type": "other", "dsl": "synth", "text": "a 105mm counterbore hole at 105mm depth", "cad": ["CYLINDER", "NUM_026", "COUNTERBORE"]}
+{"id": "eval_2", "type": "other", "dsl": "synth", "text": "a 65mm base plate with 85mm spherical feet", "cad": ["SKETCH_RECT", "NUM_65", "EXTRUDE", "NUM_50", "SPHERE", "NUM_85"]}
+{"id": "eval_3", "type": "other", "dsl": "synth", "text": "a mounting bracket holding a 75mm rod", "cad": ["SKETCH_RECT", "NUM_85", "EXTRUDE", "NUM_033", "BOX", "CYLINDER", "NUM_75"]}
+{"id": "eval_4", "type": "other", "dsl": "synth", "text": "an external thread 90mm diameter with 25mm pitch", "cad": ["THREAD", "NUM_90", "NUM_25", "CYLINDER"]}
+{"id": "eval_5", "type": "other", "dsl": "synth", "text": "a 65mm x 70mm steel box", "cad": ["SKETCH_RECT", "NUM_65", "EXTRUDE", "NUM_70", "BOX"]}
+{"id": "eval_6", "type": "other", "dsl": "synth", "text": "a 110mm slot 55mm long", "cad": ["SKETCH_RECT", "NUM_028", "SLOT", "NUM_55"]}
+{"id": "eval_7", "type": "other", "dsl": "synth", "text": "a cylindrical housing with 120mm radius and 150mm height", "cad": ["CYLINDER", "NUM_030", "EXTRUDE", "NUM_038", "BOX"]}
+{"id": "eval_8", "type": "other", "dsl": "synth", "text": "a 160mm counterbore hole at 160mm depth", "cad": ["CYLINDER", "NUM_040", "COUNTERBORE"]}
+{"id": "eval_9", "type": "other", "dsl": "synth", "text": "a 75mm base plate with 90mm spherical feet", "cad": ["SKETCH_RECT", "NUM_75", "EXTRUDE", "NUM_033", "SPHERE", "NUM_90"]}
+{"id": "eval_10", "type": "other", "dsl": "synth", "text": "a complete mounting bracket for a 115mm panel with 15mm height and 55mm depth", "cad": ["BRACKET", "NUM_029", "NUM_15", "NUM_55", "MOUNT", "EXTRUDE", "SLOT"]}
+{"id": "eval_11", "type": "other", "dsl": "synth", "text": "a counterbore hole with 75mm diameter and 35mm counterbore depth", "cad": ["COUNTERBORE", "NUM_75", "EXTRUDE", "NUM_35", "HOLE"]}
+{"id": "eval_12", "type": "other", "dsl": "synth", "text": "a mounting bracket holding a 95mm rod", "cad": ["SKETCH_RECT", "NUM_70", "EXTRUDE", "NUM_10", "BOX", "CYLINDER", "NUM_95"]}
+{"id": "eval_13", "type": "other", "dsl": "synth", "text": "a 80mm counterbore hole at 80mm depth", "cad": ["CYLINDER", "NUM_80", "COUNTERBORE"]}
+{"id": "eval_14", "type": "other", "dsl": "synth", "text": "a mounting bracket holding a 125mm rod", "cad": ["SKETCH_RECT", "NUM_034", "EXTRUDE", "NUM_30", "BOX", "CYLINDER", "NUM_032"]}
+{"id": "eval_15", "type": "other", "dsl": "synth", "text": "a 20mm base plate with 125mm spherical feet", "cad": ["SKETCH_RECT", "NUM_20", "EXTRUDE", "NUM_90", "SPHERE", "NUM_032"]}
+{"id": "eval_16", "type": "other", "dsl": "synth", "text": "a complete mounting bracket for a 100mm panel with 160mm height and 20mm depth", "cad": ["BRACKET", "NUM_025", "NUM_040", "NUM_20", "MOUNT", "EXTRUDE", "SLOT"]}
+{"id": "eval_17", "type": "other", "dsl": "synth", "text": "a 35mm base plate with 30mm spherical feet", "cad": ["SKETCH_RECT", "NUM_35", "EXTRUDE", "NUM_85", "SPHERE", "NUM_30"]}
+{"id": "eval_18", "type": "other", "dsl": "synth", "text": "a 160mm base plate with 50mm spherical feet", "cad": ["SKETCH_RECT", "NUM_040", "EXTRUDE", "NUM_026", "SPHERE", "NUM_50"]}
+{"id": "eval_19", "type": "other", "dsl": "synth", "text": "a tolerance stack of 20 parts each 145mm", "cad": ["PART", "NUM_20", "NUM_037", "EXTRUDE", "NUM_10"]}
+{"id": "eval_20", "type": "other", "dsl": "synth", "text": "a 160mm counterbore hole at 160mm depth", "cad": ["CYLINDER", "NUM_040", "COUNTERBORE"]}
+{"id": "eval_21", "type": "other", "dsl": "synth", "text": "a mounting bracket holding a 125mm rod", "cad": ["SKETCH_RECT", "NUM_040", "EXTRUDE", "NUM_5", "BOX", "CYLINDER", "NUM_032"]}
+{"id": "eval_22", "type": "other", "dsl": "synth", "text": "a 115mm counterbore hole at 115mm depth", "cad": ["CYLINDER", "NUM_029", "COUNTERBORE"]}
+{"id": "eval_23", "type": "other", "dsl": "synth", "text": "a mounting bracket holding a 95mm rod", "cad": ["SKETCH_RECT", "NUM_70", "EXTRUDE", "NUM_037", "BOX", "CYLINDER", "NUM_95"]}
+{"id": "eval_24", "type": "other", "dsl": "synth", "text": "a 80mm x 5mm base with 115mm peg on top", "cad": ["BASE", "NUM_80", "NUM_5", "PEG", "NUM_029", "EXTRUDE"]}
+{"id": "eval_25", "type": "other", "dsl": "synth", "text": "a dowel joint with 15mm diameter peg and 135mm hole", "cad": ["DOWEL", "NUM_15", "HOLE", "NUM_034", "EXTRUDE"]}
+{"id": "eval_26", "type": "other", "dsl": "synth", "text": "an external thread 90mm diameter with 130mm pitch", "cad": ["THREAD", "NUM_90", "NUM_033", "CYLINDER"]}
+{"id": "eval_27", "type": "other", "dsl": "synth", "text": "an external thread 60mm diameter with 105mm pitch", "cad": ["THREAD", "NUM_60", "NUM_026", "CYLINDER"]}
+{"id": "eval_28", "type": "other", "dsl": "synth", "text": "a mounting bracket holding a 130mm rod", "cad": ["SKETCH_RECT", "NUM_80", "EXTRUDE", "NUM_10", "BOX", "CYLINDER", "NUM_033"]}
+{"id": "eval_29", "type": "other", "dsl": "synth", "text": "a tolerance stack of 105 parts each 130mm", "cad": ["PART", "NUM_026", "NUM_033", "EXTRUDE", "NUM_10"]}
+{"id": "eval_30", "type": "other", "dsl": "synth", "text": "a 110mm slot 75mm long", "cad": ["SKETCH_RECT", "NUM_028", "SLOT", "NUM_75"]}
+{"id": "eval_31", "type": "other", "dsl": "synth", "text": "a 90mm base plate with 105mm spherical feet", "cad": ["SKETCH_RECT", "NUM_90", "EXTRUDE", "NUM_60", "SPHERE", "NUM_026"]}
+{"id": "eval_32", "type": "other", "dsl": "synth", "text": "a 125mm x 70mm steel box", "cad": ["SKETCH_RECT", "NUM_032", "EXTRUDE", "NUM_70", "BOX"]}
+{"id": "eval_33", "type": "other", "dsl": "synth", "text": "a 90mm counterbore hole at 90mm depth", "cad": ["CYLINDER", "NUM_90", "COUNTERBORE"]}
+{"id": "eval_34", "type": "other", "dsl": "synth", "text": "an external thread 20mm diameter with 45mm pitch", "cad": ["THREAD", "NUM_20", "NUM_45", "CYLINDER"]}
+{"id": "eval_35", "type": "other", "dsl": "synth", "text": "a mounting bracket holding a 140mm rod", "cad": ["SKETCH_RECT", "NUM_033", "EXTRUDE", "NUM_90", "BOX", "CYLINDER", "NUM_035"]}
+{"id": "eval_36", "type": "other", "dsl": "synth", "text": "a 25mm base plate with 125mm spherical feet", "cad": ["SKETCH_RECT", "NUM_25", "EXTRUDE", "NUM_50", "SPHERE", "NUM_032"]}
+{"id": "eval_37", "type": "other", "dsl": "synth", "text": "a complex fixture with 70 holes 20mm diameter and 85mm spacing", "cad": ["FIXTURE", "NUM_70", "NUM_20", "SPACING", "NUM_85", "HOLE", "PATTERN", "EXTRUDE"]}
+{"id": "eval_38", "type": "other", "dsl": "synth", "text": "a 20mm base plate with 145mm spherical feet", "cad": ["SKETCH_RECT", "NUM_20", "EXTRUDE", "NUM_030", "SPHERE", "NUM_037"]}
+{"id": "eval_39", "type": "other", "dsl": "synth", "text": "a 130mm counterbore hole at 130mm depth", "cad": ["CYLINDER", "NUM_033", "COUNTERBORE"]}
+{"id": "eval_40", "type": "other", "dsl": "synth", "text": "a 40mm slot 50mm long", "cad": ["SKETCH_RECT", "NUM_40", "SLOT", "NUM_50"]}
+{"id": "eval_41", "type": "other", "dsl": "synth", "text": "a slot 40mm long and 10mm wide", "cad": ["SLOT", "NUM_40", "EXTRUDE", "NUM_10", "RECT"]}
+{"id": "eval_42", "type": "other", "dsl": "synth", "text": "a mounting bracket holding a 120mm rod", "cad": ["SKETCH_RECT", "NUM_035", "EXTRUDE", "NUM_90", "BOX", "CYLINDER", "NUM_030"]}
+{"id": "eval_43", "type": "other", "dsl": "synth", "text": "a slot 85mm long and 75mm wide", "cad": ["SLOT", "NUM_85", "EXTRUDE", "NUM_75", "RECT"]}
+{"id": "eval_44", "type": "other", "dsl": "synth", "text": "an external thread 150mm diameter with 95mm pitch", "cad": ["THREAD", "NUM_038", "NUM_95", "CYLINDER"]}
+{"id": "eval_45", "type": "other", "dsl": "synth", "text": "a 35mm x 95mm steel box", "cad": ["SKETCH_RECT", "NUM_35", "EXTRUDE", "NUM_95", "BOX"]}
+{"id": "eval_46", "type": "other", "dsl": "synth", "text": "a tolerance stack of 5 parts each 135mm", "cad": ["PART", "NUM_5", "NUM_034", "EXTRUDE", "NUM_10"]}
+{"id": "eval_47", "type": "other", "dsl": "synth", "text": "a tolerance stack of 35 parts each 110mm", "cad": ["PART", "NUM_35", "NUM_028", "EXTRUDE", "NUM_10"]}
+{"id": "eval_48", "type": "other", "dsl": "synth", "text": "a tolerance stack of 95 parts each 110mm", "cad": ["PART", "NUM_95", "NUM_028", "EXTRUDE", "NUM_10"]}
+{"id": "eval_49", "type": "other", "dsl": "synth", "text": "a cylindrical housing with 80mm radius and 45mm height", "cad": ["CYLINDER", "NUM_80", "EXTRUDE", "NUM_45", "BOX"]}
+{"id": "eval_50", "type": "other", "dsl": "synth", "text": "a tolerance stack of 60 parts each 55mm", "cad": ["PART", "NUM_60", "NUM_55", "EXTRUDE", "NUM_10"]}
+{"id": "eval_51", "type": "other", "dsl": "synth", "text": "a dowel joint with 160mm diameter peg and 70mm hole", "cad": ["DOWEL", "NUM_040", "HOLE", "NUM_70", "EXTRUDE"]}
+{"id": "eval_52", "type": "other", "dsl": "synth", "text": "a 145mm x 70mm steel box", "cad": ["SKETCH_RECT", "NUM_037", "EXTRUDE", "NUM_70", "BOX"]}
+{"id": "eval_53", "type": "other", "dsl": "synth", "text": "a cylindrical housing with 80mm radius and 125mm height", "cad": ["CYLINDER", "NUM_80", "EXTRUDE", "NUM_032", "BOX"]}
+{"id": "eval_54", "type": "other", "dsl": "synth", "text": "a cylindrical housing with 80mm radius and 20mm height", "cad": ["CYLINDER", "NUM_80", "EXTRUDE", "NUM_20", "BOX"]}
+{"id": "eval_55", "type": "other", "dsl": "synth", "text": "a 65mm x 95mm steel box", "cad": ["SKETCH_RECT", "NUM_65", "EXTRUDE", "NUM_95", "BOX"]}
+{"id": "eval_56", "type": "other", "dsl": "synth", "text": "a tolerance stack of 35 parts each 75mm", "cad": ["PART", "NUM_35", "NUM_75", "EXTRUDE", "NUM_10"]}
+{"id": "eval_57", "type": "other", "dsl": "synth", "text": "a tolerance stack of 145 parts each 140mm", "cad": ["PART", "NUM_037", "NUM_035", "EXTRUDE", "NUM_10"]}
+{"id": "eval_58", "type": "other", "dsl": "synth", "text": "a complete mounting bracket for a 120mm panel with 5mm height and 90mm depth", "cad": ["BRACKET", "NUM_030", "NUM_5", "NUM_90", "MOUNT", "EXTRUDE", "SLOT"]}
+{"id": "eval_59", "type": "other", "dsl": "synth", "text": "a tolerance stack of 35 parts each 110mm", "cad": ["PART", "NUM_35", "NUM_028", "EXTRUDE", "NUM_10"]}
+{"id": "eval_60", "type": "other", "dsl": "synth", "text": "a complex fixture with 140 holes 120mm diameter and 25mm spacing", "cad": ["FIXTURE", "NUM_035", "NUM_030", "SPACING", "NUM_25", "HOLE", "PATTERN", "EXTRUDE"]}
+{"id": "eval_61", "type": "other", "dsl": "synth", "text": "a complete mounting bracket for a 45mm panel with 80mm height and 100mm depth", "cad": ["BRACKET", "NUM_45", "NUM_80", "NUM_025", "MOUNT", "EXTRUDE", "SLOT"]}
+{"id": "eval_62", "type": "other", "dsl": "synth", "text": "a 145mm base plate with 25mm spherical feet", "cad": ["SKETCH_RECT", "NUM_037", "EXTRUDE", "NUM_75", "SPHERE", "NUM_25"]}
+{"id": "eval_63", "type": "other", "dsl": "synth", "text": "a complete mounting bracket for a 40mm panel with 100mm height and 160mm depth", "cad": ["BRACKET", "NUM_40", "NUM_025", "NUM_040", "MOUNT", "EXTRUDE", "SLOT"]}
+{"id": "eval_64", "type": "other", "dsl": "synth", "text": "a tolerance stack of 70 parts each 105mm", "cad": ["PART", "NUM_70", "NUM_026", "EXTRUDE", "NUM_10"]}
+{"id": "eval_65", "type": "other", "dsl": "synth", "text": "a cylindrical housing with 95mm radius and 75mm height", "cad": ["CYLINDER", "NUM_95", "EXTRUDE", "NUM_75", "BOX"]}
+{"id": "eval_66", "type": "other", "dsl": "synth", "text": "a dowel joint with 90mm diameter peg and 30mm hole", "cad": ["DOWEL", "NUM_90", "HOLE", "NUM_30", "EXTRUDE"]}
+{"id": "eval_67", "type": "other", "dsl": "synth", "text": "a complex fixture with 15 holes 10mm diameter and 50mm spacing", "cad": ["FIXTURE", "NUM_15", "NUM_10", "SPACING", "NUM_50", "HOLE", "PATTERN", "EXTRUDE"]}
+{"id": "eval_68", "type": "other", "dsl": "synth", "text": "a complex fixture with 65 holes 70mm diameter and 25mm spacing", "cad": ["FIXTURE", "NUM_65", "NUM_70", "SPACING", "NUM_25", "HOLE", "PATTERN", "EXTRUDE"]}
+{"id": "eval_69", "type": "other", "dsl": "synth", "text": "a complete mounting bracket for a 60mm panel with 55mm height and 55mm depth", "cad": ["BRACKET", "NUM_60", "NUM_55", "MOUNT", "EXTRUDE", "SLOT"]}
+{"id": "eval_70", "type": "other", "dsl": "synth", "text": "a 35mm x 160mm base with 135mm peg on top", "cad": ["BASE", "NUM_35", "NUM_040", "PEG", "NUM_034", "EXTRUDE"]}
+{"id": "eval_71", "type": "other", "dsl": "synth", "text": "a 155mm x 15mm base with 60mm peg on top", "cad": ["BASE", "NUM_039", "NUM_15", "PEG", "NUM_60", "EXTRUDE"]}
+{"id": "eval_72", "type": "other", "dsl": "synth", "text": "a 155mm slot 150mm long", "cad": ["SKETCH_RECT", "NUM_039", "SLOT", "NUM_038"]}
+{"id": "eval_73", "type": "other", "dsl": "synth", "text": "a 130mm counterbore hole at 130mm depth", "cad": ["CYLINDER", "NUM_033", "COUNTERBORE"]}
+{"id": "eval_74", "type": "other", "dsl": "synth", "text": "a mounting bracket holding a 125mm rod", "cad": ["SKETCH_RECT", "NUM_35", "EXTRUDE", "NUM_033", "BOX", "CYLINDER", "NUM_032"]}
+{"id": "eval_75", "type": "other", "dsl": "synth", "text": "a 130mm base plate with 115mm spherical feet", "cad": ["SKETCH_RECT", "NUM_033", "EXTRUDE", "NUM_5", "SPHERE", "NUM_029"]}
+{"id": "eval_76", "type": "other", "dsl": "synth", "text": "a tolerance stack of 20 parts each 55mm", "cad": ["PART", "NUM_20", "NUM_55", "EXTRUDE", "NUM_10"]}
+{"id": "eval_77", "type": "other", "dsl": "synth", "text": "a slot 35mm long and 60mm wide", "cad": ["SLOT", "NUM_35", "EXTRUDE", "NUM_60", "RECT"]}
+{"id": "eval_78", "type": "other", "dsl": "synth", "text": "a 15mm counterbore hole at 15mm depth", "cad": ["CYLINDER", "NUM_15", "COUNTERBORE"]}
+{"id": "eval_79", "type": "other", "dsl": "synth", "text": "a mounting bracket holding a 25mm rod", "cad": ["SKETCH_RECT", "NUM_90", "EXTRUDE", "NUM_029", "BOX", "CYLINDER", "NUM_25"]}
+{"id": "eval_80", "type": "other", "dsl": "synth", "text": "a cylindrical housing with 155mm radius and 145mm height", "cad": ["CYLINDER", "NUM_039", "EXTRUDE", "NUM_037", "BOX"]}
+{"id": "eval_81", "type": "other", "dsl": "synth", "text": "a tolerance stack of 80 parts each 110mm", "cad": ["PART", "NUM_80", "NUM_028", "EXTRUDE", "NUM_10"]}
+{"id": "eval_82", "type": "other", "dsl": "synth", "text": "a complete mounting bracket for a 20mm panel with 60mm height and 105mm depth", "cad": ["BRACKET", "NUM_20", "NUM_60", "NUM_026", "MOUNT", "EXTRUDE", "SLOT"]}
+{"id": "eval_83", "type": "other", "dsl": "synth", "text": "a 55mm x 155mm steel box", "cad": ["SKETCH_RECT", "NUM_55", "EXTRUDE", "NUM_039", "BOX"]}
+{"id": "eval_84", "type": "other", "dsl": "synth", "text": "a slot 160mm long and 120mm wide", "cad": ["SLOT", "NUM_040", "EXTRUDE", "NUM_030", "RECT"]}
+{"id": "eval_85", "type": "other", "dsl": "synth", "text": "a complete mounting bracket for a 10mm panel with 100mm height and 130mm depth", "cad": ["BRACKET", "NUM_10", "NUM_025", "NUM_033", "MOUNT", "EXTRUDE", "SLOT"]}
+{"id": "eval_86", "type": "other", "dsl": "synth", "text": "an external thread 140mm diameter with 30mm pitch", "cad": ["THREAD", "NUM_035", "NUM_30", "CYLINDER"]}
+{"id": "eval_87", "type": "other", "dsl": "synth", "text": "a 65mm x 70mm steel box", "cad": ["SKETCH_RECT", "NUM_65", "EXTRUDE", "NUM_70", "BOX"]}
+{"id": "eval_88", "type": "other", "dsl": "synth", "text": "a 55mm x 20mm steel box", "cad": ["SKETCH_RECT", "NUM_55", "EXTRUDE", "NUM_20", "BOX"]}
+{"id": "eval_89", "type": "other", "dsl": "synth", "text": "a 20mm base plate with 70mm spherical feet", "cad": ["SKETCH_RECT", "NUM_20", "EXTRUDE", "NUM_25", "SPHERE", "NUM_70"]}
+{"id": "eval_90", "type": "other", "dsl": "synth", "text": "a 35mm slot 10mm long", "cad": ["SKETCH_RECT", "NUM_35", "SLOT", "NUM_10"]}
+{"id": "eval_91", "type": "other", "dsl": "synth", "text": "a slot 45mm long and 20mm wide", "cad": ["SLOT", "NUM_45", "EXTRUDE", "NUM_20", "RECT"]}
+{"id": "eval_92", "type": "other", "dsl": "synth", "text": "a counterbore hole with 100mm diameter and 95mm counterbore depth", "cad": ["COUNTERBORE", "NUM_025", "EXTRUDE", "NUM_95", "HOLE"]}
+{"id": "eval_93", "type": "other", "dsl": "synth", "text": "a 40mm x 130mm steel box", "cad": ["SKETCH_RECT", "NUM_40", "EXTRUDE", "NUM_033", "BOX"]}
+{"id": "eval_94", "type": "other", "dsl": "synth", "text": "a tolerance stack of 5 parts each 60mm", "cad": ["PART", "NUM_5", "NUM_60", "EXTRUDE", "NUM_10"]}
+{"id": "eval_95", "type": "other", "dsl": "synth", "text": "a mounting bracket holding a 95mm rod", "cad": ["SKETCH_RECT", "NUM_40", "EXTRUDE", "NUM_030", "BOX", "CYLINDER", "NUM_95"]}
+{"id": "eval_96", "type": "other", "dsl": "synth", "text": "a mounting bracket holding a 50mm rod", "cad": ["SKETCH_RECT", "NUM_45", "EXTRUDE", "NUM_032", "BOX", "CYLINDER", "NUM_50"]}
+{"id": "eval_97", "type": "other", "dsl": "synth", "text": "a cylindrical housing with 80mm radius and 130mm height", "cad": ["CYLINDER", "NUM_80", "EXTRUDE", "NUM_033", "BOX"]}
+{"id": "eval_98", "type": "other", "dsl": "synth", "text": "a dowel joint with 85mm diameter peg and 55mm hole", "cad": ["DOWEL", "NUM_85", "HOLE", "NUM_55", "EXTRUDE"]}
+{"id": "eval_99", "type": "other", "dsl": "synth", "text": "an external thread 110mm diameter with 70mm pitch", "cad": ["THREAD", "NUM_028", "NUM_70", "CYLINDER"]}
+{"id": "bench_manual_001", "type": "manual", "dsl": "legacy", "text": "Bracket with two vertical plate flanges.", "cad": "SKETCH_RECT NUM_60 NUM_40 EXTRUDE NUM_10 BOX"}
+{"id": "bench_manual_002", "type": "manual", "dsl": "legacy", "text": "Base plate, ten millimeters thick.", "cad": "SKETCH_RECT NUM_100 NUM_60 EXTRUDE NUM_10 BOX"}
+{"id": "bench_manual_003", "type": "manual", "dsl": "legacy", "text": "Circular pedestal of 80 millimeters diameter.", "cad": "SKETCH_CIRCLE NUM_40 EXTRUDE NUM_50 CYLINDER"}

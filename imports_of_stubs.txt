@@ -1,0 +1,60 @@
+﻿src\cadgenesis\agents\__init__.py: from cadgenesis.agents.consensus import AgentOpinion, ConsensusEngine
+src\cadgenesis\agents\__init__.py: from cadgenesis.agents.monitoring import MonitoringAgent
+src\cadgenesis\agents\__init__.py: from cadgenesis.agents.pipeline import (
+src\cadgenesis\agents\__init__.py: from cadgenesis.agents.versioning import AgentVersion
+src\cadgenesis\agents\coordinator.py: from cadgenesis.agents.consensus import AgentOpinion, ConsensusEngine
+src\cadgenesis\agents\fleet.py: from cadgenesis.agents.monitoring import MonitoringAgent
+src\cadgenesis\agents\infrastructure.py: from cadgenesis.agents.versioning import AgentVersion
+src\cadgenesis\agents\integration.py: from cadgenesis.confidence import ConfidenceEngine
+src\cadgenesis\agents\loader.py: from cadgenesis.agents.versioning import AgentVersion
+src\cadgenesis\agents\orchestrator.py: from cadgenesis.agents.consensus import AgentOpinion, ConsensusEngine
+src\cadgenesis\agents\orchestrator.py: from cadgenesis.agents.pipeline import TaskPlanningPipeline, _seed_payload
+src\cadgenesis\agents\plugins.py: from cadgenesis.agents.versioning import AgentVersion
+src\cadgenesis\autonomous_research\__init__.py: from .evaluator import BenchmarkEvaluator, EvaluationReport
+src\cadgenesis\autonomous_research\__init__.py: from .report_generator import ReportFormat, ResearchReportGenerator
+src\cadgenesis\cad\benchmarks\cad_benchmarks.py: from cadgenesis.cad.integration.pipeline import CADIntelligencePipeline
+src\cadgenesis\cad\integration\__init__.py: from cadgenesis.cad.integration.pipeline import CADIntelligencePipeline, PipelineResult
+src\cadgenesis\cad\integration\pipeline.py: from cadgenesis.cad.validation.pipeline import CadValidator
+src\cadgenesis\cad\validation\__init__.py: from cadgenesis.cad.validation.pipeline import CadValidator
+src\cadgenesis\cli\diagnostics.py: from cadgenesis.monitoring.health import HealthChecker, check_disk_usage, check_memory_usage
+src\cadgenesis\confidence\__init__.py: from cadgenesis.confidence.confidence_engine import ConfidenceEngine
+src\cadgenesis\memory\__init__.py: from cadgenesis.memory.pruning import MemoryPruner, PruningReport
+src\cadgenesis\memory\memory_system.py: from cadgenesis.memory.memory_router import MemoryRouter, RoutingDecision
+src\cadgenesis\memory\memory_system.py: from cadgenesis.memory.pruning import MemoryPruner, PruningReport
+src\cadgenesis\monitoring\__init__.py: from cadgenesis.monitoring.alerts import (
+src\cadgenesis\monitoring\__init__.py: from cadgenesis.monitoring.drift import (
+src\cadgenesis\monitoring\__init__.py: from cadgenesis.monitoring.health import (
+src\cadgenesis\platform\__init__.py: from cadgenesis.platform.monitoring import (
+src\cadgenesis\platform\monitoring.py: from cadgenesis.monitoring.health import HealthChecker
+src\cadgenesis\platform\sdk.py: from cadgenesis.cli.train import main as train_main  # local fallback
+src\cadgenesis\research_lab\__init__.py: from .promotion import PromotionDecision, PromotionStage, SafePromotionPipeline
+src\cadgenesis\serving\api.py: from cadgenesis.monitoring.health import HealthChecker, check_disk_usage, check_memory_usage
+src\cadgenesis\serving\api.py: from cadgenesis.monitoring.health import HealthResult
+src\cadgenesis\serving\api.py: from cadgenesis.platform.monitoring import HealthAggregator, PrometheusExporter
+src\cadgenesis\serving\api.py: from cadgenesis.serving.lifecycle import ModelLifecycle, resolve_registry_path
+src\cadgenesis\tokenizer\__init__.py: from cadgenesis.tokenizer.versioning import (
+src\cadgenesis\tokenizer\cad_tokenizer.py: from cadgenesis.tokenizer.versioning import migrate_vocabulary
+src\cadgenesis\tokenizer\cad_tokenizer.py: from cadgenesis.tokenizer.versioning import MigrationResult
+src\cadgenesis\tokenizer\cad_tokenizer.py: from cadgenesis.tokenizer.versioning import remap_ids
+src\cadgenesis\tokenizer\vocabulary_manager.py: from cadgenesis.tokenizer.versioning import (
+src\cadgenesis\training\fsdp.py: BackwardPrefetch = None  # type: ignore[misc, assignment]  # optional torch import fallback
+src\cadgenesis\training\fsdp.py: CPUOffload = None  # type: ignore[misc, assignment]  # optional torch import fallback
+src\cadgenesis\training\fsdp.py: DefaultLoadPlanner = None  # type: ignore[misc, assignment]  # optional torch import fallback
+src\cadgenesis\training\fsdp.py: DefaultSavePlanner = None  # type: ignore[misc, assignment]  # optional torch import fallback
+src\cadgenesis\training\fsdp.py: FSDP = None  # type: ignore[misc, assignment]  # optional torch import fallback
+src\cadgenesis\training\fsdp.py: MixedPrecision = None  # type: ignore[misc, assignment]  # optional torch import fallback
+src\cadgenesis\training\fsdp.py: ShardedGradScaler = None  # type: ignore[misc, assignment]  # optional torch import fallback
+src\cadgenesis\training\fsdp.py: ShardingStrategy = None  # type: ignore[misc, assignment]  # optional torch import fallback
+src\cadgenesis\training\fsdp.py: StateDictType = None  # type: ignore[misc, assignment]  # optional torch import fallback
+src\cadgenesis\training\profiler.py: profile = None  # type: ignore[misc, assignment]  # optional import fallback
+src\cadgenesis\training\profiler.py: ProfilerActivity = None  # type: ignore[misc, assignment]  # optional import fallback
+src\cadgenesis\training\profiler.py: record_function = None  # type: ignore[misc, assignment]  # optional import fallback
+src\cadgenesis\transformer\evolution\__init__.py: from cadgenesis.transformer.evolution.versioning import (
+src\cadgenesis\transformer\evolution\experiments.py: from cadgenesis.transformer.evolution.versioning import hash_architecture
+src\cadgenesis\transformer\geometry_transformer.py: from cadgenesis.quantization.bitnet import apply_bitnet
+src\cadgenesis\transformer\self_designing\__init__.py: from cadgenesis.transformer.self_designing.pruning import LayerPruningController
+src\cadgenesis\transformer\self_designing\__init__.py: from cadgenesis.transformer.self_designing.rollback import AutomaticRollback
+src\cadgenesis\transformer\self_designing\pruning.py: Tracks per-layer importance and reversible pruning state.
+src\cadgenesis\transformer\self_designing\self_designing.py: from cadgenesis.transformer.self_designing.pruning import LayerPruningController
+src\cadgenesis\transformer\self_designing\self_designing.py: from cadgenesis.transformer.self_designing.rollback import AutomaticRollback
+src\cadgenesis\transformer\self_designing\self_designing.py: self.pruning.compute_importance(self.backbone)

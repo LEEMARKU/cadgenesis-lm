@@ -1,0 +1,466 @@
+a cylindrical housing with 25mm radius and 20mm height
+a 30mm base plate with 20mm spherical feet
+a cylindrical housing with 115mm radius and 30mm height
+a mounting bracket holding a 95mm rod
+a cylindrical pin with 120mm radius and 65mm length
+a 5mm x 85mm steel box
+a 125mm x 95mm steel box
+a 10mm base plate with 135mm spherical feet
+a 110mm x 65mm steel box
+a cylindrical housing with 10mm radius and 90mm height
+a 145mm base plate with 140mm spherical feet
+a 100mm base plate with 140mm spherical feet
+a 130mm x 110mm steel box
+a cylindrical housing with 130mm radius and 130mm height
+a 30mm x 85mm steel box
+a 45mm base plate with 85mm spherical feet
+a 25mm x 145mm steel box
+a cylindrical pin with 30mm radius and 130mm length
+a mounting bracket holding a 120mm rod
+a 90mm x 145mm steel box
+a 30mm x 50mm steel box
+a cylindrical housing with 20mm radius and 75mm height
+a mounting bracket holding a 90mm rod
+a mounting bracket holding a 80mm rod
+a 60mm x 5mm steel box
+a cylindrical housing with 115mm radius and 75mm height
+a mounting bracket holding a 55mm rod
+a mounting bracket holding a 15mm rod
+a box with 145mm sides and rounded corners
+a mounting bracket holding a 110mm rod
+a mounting bracket holding a 160mm rod
+a 75mm base plate with 145mm spherical feet
+a cylindrical housing with 40mm radius and 75mm height
+a box with 150mm sides and rounded corners
+a 130mm x 160mm steel box
+a cylindrical housing with 50mm radius and 160mm height
+a 65mm x 90mm steel box
+a 15mm base plate with 110mm spherical feet
+a mounting bracket holding a 155mm rod
+a box with 80mm sides and rounded corners
+a 30mm x 10mm steel box
+a 110mm base plate with 65mm spherical feet
+a 145mm x 60mm steel box
+a 110mm x 125mm steel box
+a mounting bracket holding a 25mm rod
+a 70mm x 95mm steel box
+a cylindrical housing with 40mm radius and 40mm height
+a 150mm base plate with 145mm spherical feet
+a 75mm x 30mm steel box
+a mounting bracket holding a 20mm rod
+a mounting bracket holding a 150mm rod
+a 50mm x 15mm steel box
+a spherical container with 25mm radius
+a mounting bracket holding a 35mm rod
+a rectangular enclosure with 35mm x 115mm footprint and 70mm depth
+a rectangular enclosure with 50mm x 30mm footprint and 55mm depth
+a mounting bracket holding a 65mm rod
+a 135mm base plate with 145mm spherical feet
+a mounting bracket holding a 70mm rod
+a 15mm x 100mm steel box
+a 85mm base plate with 130mm spherical feet
+a cylindrical housing with 25mm radius and 30mm height
+a cylindrical housing with 130mm radius and 75mm height
+a 65mm base plate with 80mm spherical feet
+a cylindrical housing with 45mm radius and 80mm height
+a 85mm base plate with 65mm spherical feet
+a 160mm base plate with 45mm spherical feet
+a spherical container with 145mm radius
+a 100mm base plate with 65mm spherical feet
+a box with 60mm sides and rounded corners
+a 135mm x 40mm steel box
+a mounting bracket holding a 130mm rod
+a 155mm x 80mm steel box
+a cylindrical housing with 30mm radius and 85mm height
+a cylindrical housing with 160mm radius and 30mm height
+a 85mm x 130mm steel box
+a 35mm base plate with 155mm spherical feet
+a 90mm x 15mm steel box
+a spherical container with 155mm radius
+a cylindrical housing with 65mm radius and 80mm height
+a rectangular enclosure with 95mm x 100mm footprint and 135mm depth
+a cylindrical housing with 120mm radius and 10mm height
+a 110mm base plate with 95mm spherical feet
+a 95mm base plate with 35mm spherical feet
+a mounting bracket holding a 40mm rod
+a cylindrical housing with 100mm radius and 160mm height
+a cylindrical housing with 55mm radius and 55mm height
+a box with 40mm sides and rounded corners
+a cylindrical housing with 55mm radius and 40mm height
+a 15mm x 5mm steel box
+a cylindrical housing with 70mm radius and 15mm height
+a 135mm base plate with 125mm spherical feet
+a 150mm x 5mm steel box
+a 120mm x 110mm steel box
+a 160mm base plate with 5mm spherical feet
+a mounting bracket holding a 5mm rod
+a spherical container with 65mm radius
+a mounting bracket holding a 75mm rod
+a 25mm base plate with 20mm spherical feet
+a 20mm base plate with 10mm spherical feet
+a 125mm base plate with 85mm spherical feet
+a cylindrical housing with 160mm radius and 150mm height
+a cylindrical pin with 15mm radius and 130mm length
+a rectangular enclosure with 5mm x 155mm footprint and 75mm depth
+a cylindrical housing with 105mm radius and 45mm height
+a rectangular enclosure with 135mm x 35mm footprint and 130mm depth
+a rectangular enclosure with 85mm x 85mm footprint and 65mm depth
+a 140mm x 45mm steel box
+a spherical container with 120mm radius
+a mounting bracket holding a 30mm rod
+a 65mm base plate with 105mm spherical feet
+a 20mm base plate with 70mm spherical feet
+a 110mm x 135mm steel box
+a 150mm base plate with 30mm spherical feet
+a spherical container with 30mm radius
+a 55mm base plate with 35mm spherical feet
+a 80mm base plate with 130mm spherical feet
+a cylindrical housing with 155mm radius and 155mm height
+a 135mm base plate with 30mm spherical feet
+a cylindrical housing with 115mm radius and 10mm height
+a 100mm base plate with 10mm spherical feet
+a cylindrical housing with 50mm radius and 155mm height
+a 90mm base plate with 30mm spherical feet
+a 60mm x 50mm steel box
+a cylindrical housing with 85mm radius and 95mm height
+a cylindrical pin with 5mm radius and 20mm length
+a cylindrical housing with 20mm radius and 150mm height
+a spherical container with 45mm radius
+a 5mm base plate with 30mm spherical feet
+a cylindrical pin with 55mm radius and 125mm length
+a cylindrical housing with 90mm radius and 155mm height
+a 85mm base plate with 105mm spherical feet
+a rectangular enclosure with 130mm x 90mm footprint and 135mm depth
+a cylindrical housing with 125mm radius and 50mm height
+a 90mm x 65mm steel box
+a cylindrical housing with 75mm radius and 5mm height
+a rectangular enclosure with 20mm x 100mm footprint and 115mm depth
+a 125mm x 145mm steel box
+a 20mm x 30mm steel box
+a box with 120mm sides and rounded corners
+a cylindrical housing with 145mm radius and 115mm height
+a 15mm base plate with 100mm spherical feet
+a cylindrical housing with 35mm radius and 5mm height
+a 50mm x 160mm steel box
+a cylindrical pin with 30mm radius and 120mm length
+a rectangular enclosure with 50mm x 15mm footprint and 70mm depth
+a 140mm base plate with 40mm spherical feet
+a spherical container with 105mm radius
+a spherical container with 60mm radius
+a cylindrical pin with 20mm radius and 125mm length
+a cylindrical housing with 100mm radius and 145mm height
+a 155mm base plate with 130mm spherical feet
+a cylindrical pin with 25mm radius and 35mm length
+a 110mm x 95mm steel box
+a cylindrical housing with 130mm radius and 20mm height
+a mounting bracket holding a 50mm rod
+a 105mm x 30mm steel box
+a 90mm x 45mm steel box
+a 35mm base plate with 25mm spherical feet
+a 110mm base plate with 145mm spherical feet
+a 115mm x 20mm steel box
+a 80mm x 95mm steel box
+a 10mm base plate with 75mm spherical feet
+a 25mm base plate with 130mm spherical feet
+a cylindrical pin with 155mm radius and 105mm length
+a 75mm base plate with 160mm spherical feet
+a rectangular enclosure with 5mm x 105mm footprint and 135mm depth
+a box with 140mm sides and rounded corners
+a spherical container with 55mm radius
+a spherical container with 80mm radius
+a 50mm x 10mm steel box
+a cylindrical housing with 135mm radius and 120mm height
+a mounting bracket holding a 145mm rod
+a cylindrical housing with 10mm radius and 70mm height
+a spherical container with 140mm radius
+a 70mm x 115mm steel box
+a 25mm x 85mm steel box
+a cylindrical housing with 35mm radius and 155mm height
+a cylindrical pin with 60mm radius and 70mm length
+a box with 10mm sides and rounded corners
+a 30mm x 155mm steel box
+a mounting bracket holding a 125mm rod
+a 60mm x 65mm steel box
+a 105mm x 65mm steel box
+a box with 125mm sides and rounded corners
+a 15mm base plate with 5mm spherical feet
+a 105mm x 25mm steel box
+a cylindrical pin with 130mm radius and 130mm length
+a cylindrical housing with 140mm radius and 20mm height
+a spherical container with 35mm radius
+a 5mm base plate with 100mm spherical feet
+a 10mm base plate with 50mm spherical feet
+a 90mm x 115mm steel box
+a rectangular enclosure with 145mm x 120mm footprint and 15mm depth
+a 90mm base plate with 80mm spherical feet
+a 140mm base plate with 120mm spherical feet
+a cylindrical pin with 50mm radius and 130mm length
+a cylindrical housing with 5mm radius and 50mm height
+a 115mm x 105mm steel box
+a cylindrical housing with 155mm radius and 85mm height
+a 110mm base plate with 30mm spherical feet
+a 135mm x 45mm steel box
+a cylindrical pin with 70mm radius and 5mm length
+a 155mm base plate with 80mm spherical feet
+a cylindrical housing with 120mm radius and 155mm height
+a cylindrical housing with 115mm radius and 125mm height
+a 125mm base plate with 120mm spherical feet
+a 130mm base plate with 145mm spherical feet
+a cylindrical pin with 125mm radius and 160mm length
+a rectangular enclosure with 120mm x 60mm footprint and 100mm depth
+a mounting bracket holding a 140mm rod
+a rectangular enclosure with 25mm x 70mm footprint and 15mm depth
+a 100mm x 100mm steel box
+a 120mm base plate with 155mm spherical feet
+a cylindrical housing with 75mm radius and 35mm height
+a 15mm x 45mm steel box
+a 45mm base plate with 55mm spherical feet
+a cylindrical housing with 110mm radius and 75mm height
+a cylindrical pin with 140mm radius and 40mm length
+a 135mm x 65mm steel box
+a 125mm base plate with 130mm spherical feet
+a box with 130mm sides and rounded corners
+a 70mm x 75mm steel box
+a 85mm x 135mm steel box
+a cylindrical housing with 140mm radius and 105mm height
+a spherical container with 15mm radius
+a box with 100mm sides and rounded corners
+a 135mm base plate with 20mm spherical feet
+a 110mm base plate with 15mm spherical feet
+a 125mm base plate with 115mm spherical feet
+a 75mm base plate with 50mm spherical feet
+a cylindrical housing with 60mm radius and 140mm height
+a 145mm x 45mm steel box
+a 55mm base plate with 25mm spherical feet
+a 120mm base plate with 45mm spherical feet
+a mounting bracket holding a 85mm rod
+a cylindrical housing with 65mm radius and 160mm height
+a 140mm base plate with 155mm spherical feet
+a 25mm x 90mm steel box
+a cylindrical housing with 25mm radius and 35mm height
+a rectangular enclosure with 135mm x 150mm footprint and 80mm depth
+a rectangular enclosure with 25mm x 130mm footprint and 85mm depth
+a 40mm base plate with 70mm spherical feet
+a mounting bracket holding a 100mm rod
+a spherical container with 75mm radius
+a rectangular enclosure with 90mm x 90mm footprint and 120mm depth
+a cylindrical housing with 110mm radius and 30mm height
+a cylindrical pin with 65mm radius and 100mm length
+a 60mm x 140mm steel box
+a 160mm base plate with 60mm spherical feet
+a spherical container with 150mm radius
+a cylindrical pin with 115mm radius and 40mm length
+a 150mm x 145mm steel box
+a 85mm x 20mm steel box
+a 65mm base plate with 160mm spherical feet
+a 85mm x 65mm steel box
+a 5mm x 50mm steel box
+a 15mm base plate with 150mm spherical feet
+a cylindrical housing with 20mm radius and 130mm height
+a 105mm x 80mm steel box
+a cylindrical pin with 55mm radius and 50mm length
+a 10mm x 110mm steel box
+a 25mm x 70mm steel box
+a cylindrical housing with 45mm radius and 140mm height
+a cylindrical housing with 90mm radius and 135mm height
+a 5mm base plate with 25mm spherical feet
+a cylindrical pin with 15mm radius and 105mm length
+a cylindrical housing with 70mm radius and 95mm height
+a 130mm base plate with 65mm spherical feet
+a cylindrical housing with 120mm radius and 35mm height
+a 45mm base plate with 95mm spherical feet
+a cylindrical housing with 5mm radius and 155mm height
+a 45mm x 20mm steel box
+a 10mm x 65mm steel box
+a 70mm base plate with 30mm spherical feet
+a spherical container with 70mm radius
+a cylindrical pin with 45mm radius and 15mm length
+a cylindrical housing with 110mm radius and 115mm height
+a cylindrical housing with 80mm radius and 60mm height
+a box with 155mm sides and rounded corners
+a 30mm base plate with 55mm spherical feet
+a cylindrical housing with 110mm radius and 20mm height
+a cylindrical housing with 150mm radius and 150mm height
+a cylindrical housing with 100mm radius and 60mm height
+a cylindrical housing with 50mm radius and 40mm height
+a 50mm base plate with 130mm spherical feet
+a 90mm x 20mm steel box
+a cylindrical housing with 50mm radius and 35mm height
+a spherical container with 160mm radius
+a cylindrical housing with 160mm radius and 60mm height
+a 45mm base plate with 15mm spherical feet
+a cylindrical housing with 35mm radius and 65mm height
+a cylindrical housing with 10mm radius and 100mm height
+a mounting bracket holding a 10mm rod
+a cylindrical housing with 95mm radius and 125mm height
+a 130mm x 100mm steel box
+a cylindrical housing with 65mm radius and 155mm height
+a 55mm x 75mm steel box
+a cylindrical housing with 5mm radius and 35mm height
+a cylindrical pin with 115mm radius and 95mm length
+a cylindrical housing with 95mm radius and 135mm height
+a 150mm base plate with 90mm spherical feet
+a rectangular enclosure with 135mm x 135mm footprint and 10mm depth
+a 85mm base plate with 140mm spherical feet
+a mounting bracket holding a 105mm rod
+a 10mm x 85mm steel box
+a 75mm x 35mm steel box
+a 140mm x 160mm steel box
+a cylindrical housing with 65mm radius and 115mm height
+a 25mm x 40mm steel box
+a 60mm base plate with 150mm spherical feet
+a cylindrical housing with 65mm radius and 110mm height
+a 45mm x 140mm steel box
+a 5mm base plate with 95mm spherical feet
+a cylindrical housing with 120mm radius and 50mm height
+a spherical container with 130mm radius
+a 75mm base plate with 150mm spherical feet
+a cylindrical housing with 160mm radius and 20mm height
+a cylindrical housing with 130mm radius and 150mm height
+a 160mm base plate with 65mm spherical feet
+a 100mm x 40mm steel box
+a 90mm base plate with 100mm spherical feet
+a spherical container with 135mm radius
+a 20mm x 80mm steel box
+a box with 160mm sides and rounded corners
+a 155mm base plate with 135mm spherical feet
+a 135mm base plate with 70mm spherical feet
+a 60mm x 90mm steel box
+a cylindrical housing with 70mm radius and 160mm height
+a 75mm base plate with 85mm spherical feet
+a cylindrical housing with 45mm radius and 10mm height
+a box with 25mm sides and rounded corners
+a rectangular enclosure with 150mm x 15mm footprint and 35mm depth
+a cylindrical housing with 50mm radius and 150mm height
+a 105mm x 160mm steel box
+a cylindrical pin with 55mm radius and 55mm length
+a 105mm base plate with 80mm spherical feet
+a box with 45mm sides and rounded corners
+a 120mm x 35mm steel box
+a cylindrical pin with 30mm radius and 55mm length
+a 80mm x 5mm steel box
+a cylindrical housing with 120mm radius and 20mm height
+a 100mm base plate with 85mm spherical feet
+a 150mm base plate with 125mm spherical feet
+a 40mm base plate with 55mm spherical feet
+a cylindrical housing with 80mm radius and 30mm height
+a rectangular enclosure with 145mm x 85mm footprint and 5mm depth
+a 50mm x 85mm steel box
+a spherical container with 50mm radius
+a 55mm x 140mm steel box
+a cylindrical pin with 65mm radius and 15mm length
+a cylindrical housing with 120mm radius and 55mm height
+a 20mm base plate with 60mm spherical feet
+a 135mm base plate with 100mm spherical feet
+a 60mm x 55mm steel box
+a rectangular enclosure with 15mm x 120mm footprint and 110mm depth
+a 120mm base plate with 145mm spherical feet
+a cylindrical housing with 75mm radius and 155mm height
+a cylindrical pin with 50mm radius and 80mm length
+a cylindrical housing with 120mm radius and 30mm height
+a cylindrical housing with 135mm radius and 25mm height
+a cylindrical housing with 75mm radius and 50mm height
+a 80mm base plate with 35mm spherical feet
+a cylindrical housing with 55mm radius and 110mm height
+a 65mm x 70mm steel box
+a 140mm x 55mm steel box
+a cylindrical housing with 15mm radius and 45mm height
+a cylindrical housing with 135mm radius and 15mm height
+a rectangular enclosure with 40mm x 95mm footprint and 95mm depth
+a cylindrical housing with 105mm radius and 50mm height
+a box with 35mm sides and rounded corners
+a 115mm x 150mm steel box
+a 140mm base plate with 45mm spherical feet
+a 130mm x 10mm steel box
+a 120mm base plate with 90mm spherical feet
+a 10mm x 30mm steel box
+a 155mm base plate with 65mm spherical feet
+a 85mm base plate with 75mm spherical feet
+a cylindrical housing with 40mm radius and 135mm height
+a cylindrical housing with 30mm radius and 140mm height
+a rectangular enclosure with 80mm x 80mm footprint and 50mm depth
+a 80mm base plate with 10mm spherical feet
+a 45mm x 5mm steel box
+a 15mm x 35mm steel box
+a 50mm base plate with 35mm spherical feet
+a cylindrical housing with 25mm radius and 70mm height
+a cylindrical pin with 75mm radius and 130mm length
+a cylindrical housing with 25mm radius and 105mm height
+a rectangular enclosure with 85mm x 15mm footprint and 70mm depth
+a 50mm x 125mm steel box
+a cylindrical housing with 85mm radius and 115mm height
+a 160mm base plate with 20mm spherical feet
+a 80mm x 105mm steel box
+a 75mm base plate with 5mm spherical feet
+a cylindrical pin with 65mm radius and 155mm length
+a 135mm base plate with 120mm spherical feet
+a mounting bracket holding a 135mm rod
+a 40mm x 55mm steel box
+a cylindrical housing with 70mm radius and 155mm height
+a cylindrical housing with 70mm radius and 145mm height
+a 45mm x 150mm steel box
+a 15mm x 150mm steel box
+a 85mm x 40mm steel box
+a cylindrical housing with 30mm radius and 60mm height
+a 75mm x 25mm steel box
+a rectangular enclosure with 25mm x 120mm footprint and 60mm depth
+a cylindrical housing with 95mm radius and 25mm height
+a cylindrical housing with 120mm radius and 100mm height
+a 50mm x 95mm steel box
+a spherical container with 85mm radius
+a 155mm x 35mm steel box
+a cylindrical housing with 55mm radius and 145mm height
+a 70mm base plate with 160mm spherical feet
+a 25mm base plate with 70mm spherical feet
+a 105mm base plate with 40mm spherical feet
+a 50mm x 120mm steel box
+a mounting bracket holding a 115mm rod
+a mounting bracket holding a 45mm rod
+a cylindrical pin with 55mm radius and 45mm length
+a 85mm x 30mm steel box
+a 10mm x 75mm steel box
+a box with 30mm sides and rounded corners
+a cylindrical housing with 110mm radius and 85mm height
+a cylindrical pin with 120mm radius and 150mm length
+a 80mm x 140mm steel box
+a 30mm base plate with 60mm spherical feet
+a 125mm base plate with 90mm spherical feet
+a 120mm base plate with 85mm spherical feet
+a 45mm base plate with 75mm spherical feet
+a box with 135mm sides and rounded corners
+a cylindrical housing with 40mm radius and 125mm height
+a rectangular enclosure with 160mm x 155mm footprint and 25mm depth
+a 15mm base plate with 125mm spherical feet
+a 80mm base plate with 100mm spherical feet
+a cylindrical housing with 130mm radius and 90mm height
+a cylindrical pin with 140mm radius and 55mm length
+a cylindrical housing with 115mm radius and 50mm height
+a 110mm base plate with 20mm spherical feet
+a 10mm x 125mm steel box
+a 15mm x 80mm steel box
+a 45mm x 130mm steel box
+a 65mm base plate with 10mm spherical feet
+a rectangular enclosure with 80mm x 75mm footprint and 35mm depth
+a rectangular enclosure with 145mm x 80mm footprint and 60mm depth
+a 130mm x 145mm steel box
+a 25mm base plate with 110mm spherical feet
+a 30mm x 120mm steel box
+a box with 5mm sides and rounded corners
+a 130mm x 15mm steel box
+a 20mm x 105mm steel box
+a 145mm x 35mm steel box
+a cylindrical housing with 130mm radius and 30mm height
+a cylindrical housing with 65mm radius and 25mm height
+a cylindrical housing with 110mm radius and 145mm height
+a 145mm x 10mm steel box
+a 160mm base plate with 90mm spherical feet
+a cylindrical housing with 50mm radius and 75mm height
+a cylindrical housing with 100mm radius and 30mm height
+a rectangular enclosure with 20mm x 65mm footprint and 65mm depth
+a cylindrical housing with 155mm radius and 55mm height
+a 155mm x 40mm steel box
+a box with 115mm sides and rounded corners
+a cylindrical housing with 150mm radius and 115mm height
+a rectangular enclosure with 95mm x 75mm footprint and 40mm depth
+a rectangular enclosure with 95mm x 65mm footprint and 105mm depth
+a 115mm base plate with 135mm spherical feet

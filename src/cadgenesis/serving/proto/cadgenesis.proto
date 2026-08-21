@@ -1,0 +1,43 @@
+// CADGenesis-LM gRPC contract (Pillar 11 - Production Platform).
+// Compile with:  python -m cadgenesis.serving.grpc
+syntax = "proto3";
+
+package cadgenesis.serving;
+
+option java_package = "com.cadgenesis.serving";
+option go_package = "cadgenesis/serving";
+
+// The platform inference service: unary, server streaming and
+// bidirectional streaming RPCs.
+service CADGenesis {
+  // Unary: generate a CAD token sequence from a prompt.
+  rpc Generate(GenerateRequest) returns (GenerateResponse);
+  // Server streaming: token-by-token generation events.
+  rpc StreamGenerate(GenerateRequest) returns (stream StreamEvent);
+  // Bidirectional streaming: client sends prompts, server replies.
+  rpc ChatGenerate(stream GenerateRequest) returns (stream GenerateResponse);
+}
+
+message GenerateRequest {
+  string text = 1;          // natural-language design request
+  int32 max_len = 2;        // maximum generated token count (default 64)
+  int32 beam_width = 3;     // 1 = greedy
+  string request_id = 4;    // optional client correlation id
+}
+
+message GenerateResponse {
+  string text = 1;          // generated token sequence (space-joined)
+  repeated string tokens = 2;
+  double confidence = 3;    // mean model confidence in [0, 1]
+  string toon = 4;          // TOON-serialized result
+  string request_id = 5;
+  double latency_ms = 6;
+}
+
+message StreamEvent {
+  int32 index = 1;          // token index
+  string token = 2;
+  bool done = 3;            // true on the final event
+  string text = 4;          // populated when done
+  double confidence = 5;    // populated when done
+}

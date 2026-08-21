@@ -1,0 +1,56 @@
+# CADGenesis-LM Helm values
+image:
+  repository: cadgenesis/serve
+  tag: latest
+  pullPolicy: IfNotPresent
+
+replicaCount: 2
+
+service:
+  type: ClusterIP
+  httpPort: 8000
+  grpcPort: 50051
+
+ingress:
+  enabled: true
+  host: cadgenesis.example.com
+  annotations:
+    nginx.ingress.kubernetes.io/proxy-body-size: "50m"
+
+model:
+  path: /models/best_checkpoint.pt
+  registry: /models/registry
+
+auth:
+  adminUser: admin
+  existingSecret: cadgenesis-auth
+  adminPasswordKey: admin-password
+
+resources:
+  requests:
+    cpu: 500m
+    memory: 1Gi
+  limits:
+    cpu: "2"
+    memory: 8Gi
+
+hpa:
+  enabled: true
+  minReplicas: 2
+  maxReplicas: 8
+  cpuUtilization: 70
+  memoryUtilization: 80
+
+persistence:
+  enabled: true
+  storageClass: ""
+  size: 20Gi
+
+config:
+  platformJson: |
+    {
+      "serving": {
+        "max_batch_size": 8,
+        "max_wait_seconds": 0.02
+      }
+    }

@@ -1,0 +1,27 @@
+﻿examples/app_fastapi.py:9 (113): - POST /llm_call -> optional: attempts to call OpenAI if openai package is installed and OPENAI_API_KEY is in env
+examples/app_fastapi.py:15 (112): Note: The /llm_call endpoint will not call OpenAI unless openai package is installed and OPENAI_API_KEY present.
+examples/app_fastapi.py:116 (101):     # If streaming flag is set, return chunks (useful for user wanting chunk-by-chunk local handling)
+examples/langchain_integration.py:4 (189): This example is resilient to missing langchain: if langchain is installed, it shows a minimal Chain usage; otherwise it demonstrates how to build a prompt and call your LLM client directly.
+examples/langchain_integration.py:49 (141):         "Use build_prompt_for_llm() to create the prompt text and send it as a single message to your model client (OpenAI, Anthropic, etc.)"
+scripts/generate_stubs.py:9 (137):     "continual_learning": "Continual Learning subsystem: replay buffers, EWC, adapter isolation, knowledge anchors, continual training.",
+scripts/generate_stubs.py:11 (111):     "serving": "Model serving layer on top of the inference engine (HTTP/RPC endpoints, batching, lifecycle).",
+scripts/generate_stubs.py:12 (116):     "optimization": "Inference-time and model-level optimizations (quantization, pruning, ONNX, kernel selection).",
+scripts/generate_stubs.py:24 (108):     "continual_learning/ewc.py": "Elastic Weight Consolidation regularization for catastrophic forgetting.",
+scripts/generate_stubs.py:25 (108):     "continual_learning/adapter_isolation.py": "Task-isolated adapters to prevent cross-task interference.",
+scripts/generate_stubs.py:26 (106):     "continual_learning/knowledge_anchor.py": "Knowledge anchors: stable parameter anchors across tasks.",
+scripts/generate_stubs.py:27 (105):     "continual_learning/continual_trainer.py": "Continual training loop over sequential task curricula.",
+scripts/generate_stubs.py:28 (101):     "continual_learning/updater.py": "Incremental model updater for continual-learning checkpoints.",
+scripts/generate_stubs.py:29 (104):     "continual_learning/evaluator.py": "Continual-learning evaluation (per-task accuracy, forgetting).",
+scripts/generate_stubs.py:34 (108):     "optimization/quantization.py": "Post-training quantization (INT8 / QLoRA-4-bit) of CADGenesis models.",
+scripts/generate_stubs.py:39 (102):     "telemetry/metrics.py": "Counter/histogram metric emission (step time, tokens/sec, utilization).",
+scripts/generate_stubs.py:57 (102):     "tokenizer/vocabulary_manager.py": "Vocabulary lifecycle manager (create, grow, prune, version).",
+scripts/generate_stubs.py:78 (101):     "transformer/positional_encoding.py": "Positional encoding (sinusoidal, RoPE, ALiBi, geometry).",
+scripts/generate_stubs.py:170 (107):     "distillation/teachers/open_source_teacher.py": "Open-source (DeepSeek/Qwen/Claude) teacher adapters.",
+sdk/toon.py:12 (108): - Delimiter default is '|' (pipe) for readability. Values are escaped for backslash, newline, and delimiter.
+sdk/toon.py:14 (112): - Token estimation uses tiktoken if installed; otherwise falls back to a conservative whitespace-based estimate.
+sdk/toon.py:23 (101): # Optional: try to import tiktoken for accurate token counts. If unavailable, fall back to heuristic.
+sdk/toon.py:176 (107):     Returns dict with keys: json_text, toon_text, json_tokens, toon_tokens, savings_tokens, savings_percent
+sdk/toon.py:199 (123):     Useful helper when sending data + instructions to an LLM. Keeps the format compact while leaving instructions readable.
+sdk/toon_extended.py:6 (137):   If include_schema=True and types provided (list of strings like 'int','float','str','bool'), a second line after header contains types.
+sdk/toon_extended.py:8 (127): - chunk_toon(objects, chunk_size, fields=None, types=None, include_schema=False, delimiter='|') -> list of chunks with metadata
+sdk/toon_extended.py:9 (106): - stream_toon(objects, chunk_size, ...) -> generator yielding chunk dicts (useful for streaming endpoints)

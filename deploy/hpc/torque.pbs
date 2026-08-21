@@ -1,0 +1,23 @@
+#!/bin/bash
+#PBS -N cadgenesis-train
+#PBS -l nodes=2:ppn=16:gpus=4
+#PBS -l walltime=48:00:00
+#PBS -j oe
+#PBS -o logs/cadgenesis-${PBS_JOBID}.log
+
+set -euo pipefail
+mkdir -p logs
+
+export PYTHONPATH="${PWD}/src:${PYTHONPATH}"
+export CADGENESIS_OUTPUT_DIR="${PWD}/outputs"
+export MASTER_ADDR="$(cat "${PBS_NODEFILE}" | head -n1)"
+export MASTER_PORT=29500
+
+torchrun \
+    --nnodes="${PBS_NUM_NODES}" \
+    --nproc-per-node=4 \
+    --rdzv-backend=c10d \
+    --rdzv-endpoint="${MASTER_ADDR}:${MASTER_PORT}" \
+    -m cadgenesis.cli.train \
+    --config configs/train.yaml \
+    --distributed true

@@ -1,0 +1,44 @@
+[
+  {
+    "objects": [
+      {"id": 1, "name": "Widget A", "price": 9.99},
+      {"id": 2, "name": "Widget B", "price": 15.5},
+      {"id": 3, "name": "Widget C", "price": 20.0}
+    ],
+    "instruction": "Return ids and names for items with price > 10 as a JSON array of objects with keys id and name.",
+    "completion": "[{\"id\":2,\"name\":\"Widget B\"},{\"id\":3,\"name\":\"Widget C\"}]\n"
+  },
+  {
+    "objects": [
+      {"id": 10, "user": "alice", "active": true},
+      {"id": 11, "user": "bob", "active": false}
+    ],
+    "instruction": "List the user names for active users only, as a comma-separated string.",
+    "completion": "alice\n"
+  },
+  {
+    "objects": [
+      {"id": 101, "text": "Error at module A", "severity": "high"},
+      {"id": 102, "text": "Timeout in module B", "severity": "low"}
+    ],
+    "instruction": "Return ids of logs that have severity 'high' as a JSON array.",
+    "completion": "[{\"id\":101}]\n"
+  },
+  {
+    "objects": [
+      {"product": "Screw", "qty": 4, "location": "A1"},
+      {"product": "Bolt", "qty": 0, "location": "B2"}
+    ],
+    "instruction": "Return products that are out of stock (qty == 0) as a JSON array of product names.",
+    "completion": "[\"Bolt\"]\n"
+  },
+  {
+    "objects": [
+      {"id": 1, "score": 0.92},
+      {"id": 2, "score": 0.76},
+      {"id": 3, "score": 0.88}
+    ],
+    "instruction": "Return the id of the highest scoring item as an integer (no JSON).",
+    "completion": "1\n"
+  }
+]

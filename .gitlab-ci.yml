@@ -1,0 +1,48 @@
+stages:
+  - lint
+  - typecheck
+  - test
+  - build
+
+variables:
+  PIP_CACHE_DIR: "$CI_PROJECT_DIR/.cache/pip"
+
+cache:
+  paths:
+    - .cache/pip/
+
+lint:
+  stage: lint
+  image: python:3.12
+  script:
+    - pip install ruff
+    - ruff check src tests
+    - ruff format --check src tests
+
+typecheck:
+  stage: typecheck
+  image: python:3.12
+  script:
+    - pip install mypy numpy
+    - mypy src/cadgenesis --ignore-missing-imports
+
+test:
+  stage: test
+  image: python:3.12
+  script:
+    - pip install -e ".[dev]"
+    - python -m pytest tests -q
+  artifacts:
+    when: always
+    reports:
+      junit: junit.xml
+
+build:
+  stage: build
+  image: python:3.12
+  script:
+    - pip install build
+    - python -m build
+  artifacts:
+    paths:
+      - dist/

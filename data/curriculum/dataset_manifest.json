@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "seed": 0,
+  "requested": 10000,
+  "train": {
+    "count": 8002,
+    "digest": "d3059d1aa0153728"
+  },
+  "val": {
+    "count": 999,
+    "digest": "e79d692c4afce06e"
+  },
+  "test": {
+    "count": 999,
+    "digest": "33bf14ca53e019a6"
+  },
+  "types": {
+    "nl2program": 1111,
+    "nl2ir": 1111,
+    "program2explanation": 1111,
+    "geometry2description": 1111,
+    "error2correction": 1111,
+    "constraint": 1112,
+    "parameter": 1111,
+    "tool": 1111,
+    "planning": 1111
+  }
+}

@@ -1,0 +1,20 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: cadgenesis-serve-config
+data:
+  platform.json: |
+    {
+      "serving": {
+        "max_batch_size": 8,
+        "max_wait_seconds": 0.02
+      },
+      "auth": {
+        "issuer": "cadgenesis",
+        "audience": "cadgenesis-api",
+        "token_ttl_seconds": 3600
+      },
+      "monitoring": {
+        "prometheus": true
+      }
+    }

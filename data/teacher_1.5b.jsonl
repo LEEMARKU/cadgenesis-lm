@@ -1,0 +1,466 @@
+{"text": "a cylindrical housing with 25mm radius and 20mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a 30mm base plate with 20mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a cylindrical housing with 115mm radius and 30mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a mounting bracket holding a 95mm rod", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX", "CYLINDER"]}
+{"text": "a cylindrical pin with 120mm radius and 65mm length", "cad": ["CYLINDER", "EXTRUDE"]}
+{"text": "a 5mm x 85mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a 125mm x 95mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a 10mm base plate with 135mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a 110mm x 65mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical housing with 10mm radius and 90mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a 145mm base plate with 140mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a 100mm base plate with 140mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a 130mm x 110mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical housing with 130mm radius and 130mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a 30mm x 85mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a 45mm base plate with 85mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a 25mm x 145mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical pin with 30mm radius and 130mm length", "cad": ["CYLINDER", "EXTRUDE"]}
+{"text": "a mounting bracket holding a 120mm rod", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX", "CYLINDER"]}
+{"text": "a 90mm x 145mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a 30mm x 50mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical housing with 20mm radius and 75mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a mounting bracket holding a 90mm rod", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX", "CYLINDER"]}
+{"text": "a mounting bracket holding a 80mm rod", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX", "CYLINDER"]}
+{"text": "a 60mm x 5mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical housing with 115mm radius and 75mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a mounting bracket holding a 55mm rod", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX", "CYLINDER"]}
+{"text": "a mounting bracket holding a 15mm rod", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX", "CYLINDER"]}
+{"text": "a box with 145mm sides and rounded corners", "cad": ["SKETCH_RECT", "BOX"]}
+{"text": "a mounting bracket holding a 110mm rod", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX", "CYLINDER"]}
+{"text": "a mounting bracket holding a 160mm rod", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX", "CYLINDER"]}
+{"text": "a 75mm base plate with 145mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a cylindrical housing with 40mm radius and 75mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a box with 150mm sides and rounded corners", "cad": ["SKETCH_RECT", "BOX"]}
+{"text": "a 130mm x 160mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical housing with 50mm radius and 160mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a 65mm x 90mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a 15mm base plate with 110mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a mounting bracket holding a 155mm rod", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX", "CYLINDER"]}
+{"text": "a box with 80mm sides and rounded corners", "cad": ["SKETCH_RECT", "BOX"]}
+{"text": "a 30mm x 10mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a 110mm base plate with 65mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a 145mm x 60mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a 110mm x 125mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a mounting bracket holding a 25mm rod", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX", "CYLINDER"]}
+{"text": "a 70mm x 95mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical housing with 40mm radius and 40mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a 150mm base plate with 145mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a 75mm x 30mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a mounting bracket holding a 20mm rod", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX", "CYLINDER"]}
+{"text": "a mounting bracket holding a 150mm rod", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX", "CYLINDER"]}
+{"text": "a 50mm x 15mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a spherical container with 25mm radius", "cad": ["CYLINDER", "EXTRUDE", "SPHERE"]}
+{"text": "a mounting bracket holding a 35mm rod", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX", "CYLINDER"]}
+{"text": "a rectangular enclosure with 35mm x 115mm footprint and 70mm depth", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a rectangular enclosure with 50mm x 30mm footprint and 55mm depth", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a mounting bracket holding a 65mm rod", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX", "CYLINDER"]}
+{"text": "a 135mm base plate with 145mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a mounting bracket holding a 70mm rod", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX", "CYLINDER"]}
+{"text": "a 15mm x 100mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a 85mm base plate with 130mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a cylindrical housing with 25mm radius and 30mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical housing with 130mm radius and 75mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a 65mm base plate with 80mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a cylindrical housing with 45mm radius and 80mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a 85mm base plate with 65mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a 160mm base plate with 45mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a spherical container with 145mm radius", "cad": ["CYLINDER", "EXTRUDE", "SPHERE"]}
+{"text": "a 100mm base plate with 65mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a box with 60mm sides and rounded corners", "cad": ["SKETCH_RECT", "EXTRUDE"]}
+{"text": "a 135mm x 40mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a mounting bracket holding a 130mm rod", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX", "CYLINDER"]}
+{"text": "a 155mm x 80mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical housing with 30mm radius and 85mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical housing with 160mm radius and 30mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a 85mm x 130mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a 35mm base plate with 155mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a 90mm x 15mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a spherical container with 155mm radius", "cad": ["CYLINDER", "EXTRUDE", "SPHERE"]}
+{"text": "a cylindrical housing with 65mm radius and 80mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a rectangular enclosure with 95mm x 100mm footprint and 135mm depth", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical housing with 120mm radius and 10mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a 110mm base plate with 95mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a 95mm base plate with 35mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a mounting bracket holding a 40mm rod", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX", "CYLINDER"]}
+{"text": "a cylindrical housing with 100mm radius and 160mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical housing with 55mm radius and 55mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a box with 40mm sides and rounded corners", "cad": ["SKETCH_RECT", "EXTRUDE"]}
+{"text": "a cylindrical housing with 55mm radius and 40mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a 15mm x 5mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical housing with 70mm radius and 15mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a 135mm base plate with 125mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a 150mm x 5mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a 120mm x 110mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a 160mm base plate with 5mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a mounting bracket holding a 5mm rod", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX", "CYLINDER"]}
+{"text": "a spherical container with 65mm radius", "cad": ["CYLINDER", "EXTRUDE", "SPHERE"]}
+{"text": "a mounting bracket holding a 75mm rod", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX", "CYLINDER"]}
+{"text": "a 25mm base plate with 20mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a 20mm base plate with 10mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a 125mm base plate with 85mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a cylindrical housing with 160mm radius and 150mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical pin with 15mm radius and 130mm length", "cad": ["CYLINDER", "EXTRUDE"]}
+{"text": "a rectangular enclosure with 5mm x 155mm footprint and 75mm depth", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical housing with 105mm radius and 45mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a rectangular enclosure with 135mm x 35mm footprint and 130mm depth", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a rectangular enclosure with 85mm x 85mm footprint and 65mm depth", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a 140mm x 45mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a spherical container with 120mm radius", "cad": ["CYLINDER", "EXTRUDE", "SPHERE"]}
+{"text": "a mounting bracket holding a 30mm rod", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX", "CYLINDER"]}
+{"text": "a 65mm base plate with 105mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a 20mm base plate with 70mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a 110mm x 135mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a 150mm base plate with 30mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a spherical container with 30mm radius", "cad": ["CYLINDER", "EXTRUDE", "SPHERE"]}
+{"text": "a 55mm base plate with 35mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a 80mm base plate with 130mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a cylindrical housing with 155mm radius and 155mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a 135mm base plate with 30mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a cylindrical housing with 115mm radius and 10mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a 100mm base plate with 10mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a cylindrical housing with 50mm radius and 155mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a 90mm base plate with 30mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a 60mm x 50mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical housing with 85mm radius and 95mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical pin with 5mm radius and 20mm length", "cad": ["CYLINDER", "EXTRUDE"]}
+{"text": "a cylindrical housing with 20mm radius and 150mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a spherical container with 45mm radius", "cad": ["CYLINDER", "EXTRUDE", "SPHERE"]}
+{"text": "a 5mm base plate with 30mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a cylindrical pin with 55mm radius and 125mm length", "cad": ["CYLINDER", "EXTRUDE"]}
+{"text": "a cylindrical housing with 90mm radius and 155mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a 85mm base plate with 105mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a rectangular enclosure with 130mm x 90mm footprint and 135mm depth", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical housing with 125mm radius and 50mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a 90mm x 65mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical housing with 75mm radius and 5mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a rectangular enclosure with 20mm x 100mm footprint and 115mm depth", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a 125mm x 145mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a 20mm x 30mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a box with 120mm sides and rounded corners", "cad": ["SKETCH_RECT", "BOX"]}
+{"text": "a cylindrical housing with 145mm radius and 115mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a 15mm base plate with 100mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a cylindrical housing with 35mm radius and 5mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a 50mm x 160mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical pin with 30mm radius and 120mm length", "cad": ["CYLINDER", "EXTRUDE"]}
+{"text": "a rectangular enclosure with 50mm x 15mm footprint and 70mm depth", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a 140mm base plate with 40mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a spherical container with 105mm radius", "cad": ["CYLINDER", "EXTRUDE", "SPHERE"]}
+{"text": "a spherical container with 60mm radius", "cad": ["CYLINDER", "EXTRUDE", "SPHERE"]}
+{"text": "a cylindrical pin with 20mm radius and 125mm length", "cad": ["CYLINDER", "EXTRUDE"]}
+{"text": "a cylindrical housing with 100mm radius and 145mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a 155mm base plate with 130mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a cylindrical pin with 25mm radius and 35mm length", "cad": ["CYLINDER", "EXTRUDE"]}
+{"text": "a 110mm x 95mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical housing with 130mm radius and 20mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a mounting bracket holding a 50mm rod", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX", "CYLINDER"]}
+{"text": "a 105mm x 30mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a 90mm x 45mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a 35mm base plate with 25mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a 110mm base plate with 145mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a 115mm x 20mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a 80mm x 95mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a 10mm base plate with 75mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a 25mm base plate with 130mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a cylindrical pin with 155mm radius and 105mm length", "cad": ["CYLINDER", "EXTRUDE"]}
+{"text": "a 75mm base plate with 160mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a rectangular enclosure with 5mm x 105mm footprint and 135mm depth", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a box with 140mm sides and rounded corners", "cad": ["SKETCH_RECT", "BOX"]}
+{"text": "a spherical container with 55mm radius", "cad": ["CYLINDER", "EXTRUDE", "SPHERE"]}
+{"text": "a spherical container with 80mm radius", "cad": ["CYLINDER", "EXTRUDE", "SPHERE"]}
+{"text": "a 50mm x 10mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical housing with 135mm radius and 120mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a mounting bracket holding a 145mm rod", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX", "CYLINDER"]}
+{"text": "a cylindrical housing with 10mm radius and 70mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a spherical container with 140mm radius", "cad": ["CYLINDER", "EXTRUDE", "SPHERE"]}
+{"text": "a 70mm x 115mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a 25mm x 85mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical housing with 35mm radius and 155mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical pin with 60mm radius and 70mm length", "cad": ["CYLINDER", "EXTRUDE"]}
+{"text": "a box with 10mm sides and rounded corners", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a 30mm x 155mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a mounting bracket holding a 125mm rod", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX", "CYLINDER"]}
+{"text": "a 60mm x 65mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a 105mm x 65mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a box with 125mm sides and rounded corners", "cad": ["SKETCH_RECT", "EXTRUDE"]}
+{"text": "a 15mm base plate with 5mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a 105mm x 25mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical pin with 130mm radius and 130mm length", "cad": ["CYLINDER"]}
+{"text": "a cylindrical housing with 140mm radius and 20mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a spherical container with 35mm radius", "cad": ["CYLINDER", "EXTRUDE", "SPHERE"]}
+{"text": "a 5mm base plate with 100mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a 10mm base plate with 50mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a 90mm x 115mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a rectangular enclosure with 145mm x 120mm footprint and 15mm depth", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a 90mm base plate with 80mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a 140mm base plate with 120mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a cylindrical pin with 50mm radius and 130mm length", "cad": ["CYLINDER", "EXTRUDE"]}
+{"text": "a cylindrical housing with 5mm radius and 50mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a 115mm x 105mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical housing with 155mm radius and 85mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a 110mm base plate with 30mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a 135mm x 45mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical pin with 70mm radius and 5mm length", "cad": ["CYLINDER"]}
+{"text": "a 155mm base plate with 80mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a cylindrical housing with 120mm radius and 155mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical housing with 115mm radius and 125mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a 125mm base plate with 120mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a 130mm base plate with 145mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a cylindrical pin with 125mm radius and 160mm length", "cad": ["CYLINDER", "EXTRUDE"]}
+{"text": "a rectangular enclosure with 120mm x 60mm footprint and 100mm depth", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a mounting bracket holding a 140mm rod", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX", "CYLINDER"]}
+{"text": "a rectangular enclosure with 25mm x 70mm footprint and 15mm depth", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a 100mm x 100mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a 120mm base plate with 155mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a cylindrical housing with 75mm radius and 35mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a 15mm x 45mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a 45mm base plate with 55mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a cylindrical housing with 110mm radius and 75mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical pin with 140mm radius and 40mm length", "cad": ["CYLINDER"]}
+{"text": "a 135mm x 65mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a 125mm base plate with 130mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a box with 130mm sides and rounded corners", "cad": ["SKETCH_RECT", "BOX"]}
+{"text": "a 70mm x 75mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a 85mm x 135mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical housing with 140mm radius and 105mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a spherical container with 15mm radius", "cad": ["CYLINDER", "EXTRUDE", "SPHERE"]}
+{"text": "a box with 100mm sides and rounded corners", "cad": ["SKETCH_RECT", "BOX"]}
+{"text": "a 135mm base plate with 20mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a 110mm base plate with 15mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a 125mm base plate with 115mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a 75mm base plate with 50mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a cylindrical housing with 60mm radius and 140mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a 145mm x 45mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a 55mm base plate with 25mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a 120mm base plate with 45mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a mounting bracket holding a 85mm rod", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX", "CYLINDER"]}
+{"text": "a cylindrical housing with 65mm radius and 160mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a 140mm base plate with 155mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a 25mm x 90mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical housing with 25mm radius and 35mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a rectangular enclosure with 135mm x 150mm footprint and 80mm depth", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a rectangular enclosure with 25mm x 130mm footprint and 85mm depth", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a 40mm base plate with 70mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a mounting bracket holding a 100mm rod", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX", "CYLINDER"]}
+{"text": "a spherical container with 75mm radius", "cad": ["CYLINDER", "EXTRUDE", "SPHERE"]}
+{"text": "a rectangular enclosure with 90mm x 90mm footprint and 120mm depth", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical housing with 110mm radius and 30mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical pin with 65mm radius and 100mm length", "cad": ["CYLINDER", "EXTRUDE"]}
+{"text": "a 60mm x 140mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a 160mm base plate with 60mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a spherical container with 150mm radius", "cad": ["CYLINDER", "EXTRUDE", "SPHERE"]}
+{"text": "a cylindrical pin with 115mm radius and 40mm length", "cad": ["CYLINDER", "EXTRUDE"]}
+{"text": "a 150mm x 145mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a 85mm x 20mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a 65mm base plate with 160mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a 85mm x 65mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a 5mm x 50mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a 15mm base plate with 150mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a cylindrical housing with 20mm radius and 130mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a 105mm x 80mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical pin with 55mm radius and 50mm length", "cad": ["CYLINDER", "EXTRUDE"]}
+{"text": "a 10mm x 110mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a 25mm x 70mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical housing with 45mm radius and 140mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical housing with 90mm radius and 135mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a 5mm base plate with 25mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a cylindrical pin with 15mm radius and 105mm length", "cad": ["CYLINDER", "EXTRUDE"]}
+{"text": "a cylindrical housing with 70mm radius and 95mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a 130mm base plate with 65mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a cylindrical housing with 120mm radius and 35mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a 45mm base plate with 95mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a cylindrical housing with 5mm radius and 155mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a 45mm x 20mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a 10mm x 65mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a 70mm base plate with 30mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a spherical container with 70mm radius", "cad": ["CYLINDER", "EXTRUDE", "SPHERE"]}
+{"text": "a cylindrical pin with 45mm radius and 15mm length", "cad": ["CYLINDER", "EXTRUDE"]}
+{"text": "a cylindrical housing with 110mm radius and 115mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical housing with 80mm radius and 60mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a box with 155mm sides and rounded corners", "cad": ["SKETCH_RECT", "EXTRUDE"]}
+{"text": "a 30mm base plate with 55mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a cylindrical housing with 110mm radius and 20mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical housing with 150mm radius and 150mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical housing with 100mm radius and 60mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical housing with 50mm radius and 40mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a 50mm base plate with 130mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a 90mm x 20mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical housing with 50mm radius and 35mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a spherical container with 160mm radius", "cad": ["CYLINDER", "EXTRUDE", "SPHERE"]}
+{"text": "a cylindrical housing with 160mm radius and 60mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a 45mm base plate with 15mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a cylindrical housing with 35mm radius and 65mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical housing with 10mm radius and 100mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a mounting bracket holding a 10mm rod", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX", "CYLINDER"]}
+{"text": "a cylindrical housing with 95mm radius and 125mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a 130mm x 100mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical housing with 65mm radius and 155mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a 55mm x 75mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical housing with 5mm radius and 35mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical pin with 115mm radius and 95mm length", "cad": ["CYLINDER", "EXTRUDE"]}
+{"text": "a cylindrical housing with 95mm radius and 135mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a 150mm base plate with 90mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a rectangular enclosure with 135mm x 135mm footprint and 10mm depth", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a 85mm base plate with 140mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a mounting bracket holding a 105mm rod", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX", "CYLINDER"]}
+{"text": "a 10mm x 85mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a 75mm x 35mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a 140mm x 160mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical housing with 65mm radius and 115mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a 25mm x 40mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a 60mm base plate with 150mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a cylindrical housing with 65mm radius and 110mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a 45mm x 140mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a 5mm base plate with 95mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a cylindrical housing with 120mm radius and 50mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a spherical container with 130mm radius", "cad": ["CYLINDER", "EXTRUDE", "SPHERE"]}
+{"text": "a 75mm base plate with 150mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a cylindrical housing with 160mm radius and 20mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical housing with 130mm radius and 150mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a 160mm base plate with 65mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a 100mm x 40mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a 90mm base plate with 100mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a spherical container with 135mm radius", "cad": ["CYLINDER", "EXTRUDE", "SPHERE"]}
+{"text": "a 20mm x 80mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a box with 160mm sides and rounded corners", "cad": ["SKETCH_RECT", "BOX"]}
+{"text": "a 155mm base plate with 135mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a 135mm base plate with 70mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a 60mm x 90mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical housing with 70mm radius and 160mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a 75mm base plate with 85mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a cylindrical housing with 45mm radius and 10mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a box with 25mm sides and rounded corners", "cad": ["SKETCH_RECT", "BOX"]}
+{"text": "a rectangular enclosure with 150mm x 15mm footprint and 35mm depth", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical housing with 50mm radius and 150mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a 105mm x 160mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical pin with 55mm radius and 55mm length", "cad": ["CYLINDER"]}
+{"text": "a 105mm base plate with 80mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a box with 45mm sides and rounded corners", "cad": ["SKETCH_RECT", "EXTRUDE"]}
+{"text": "a 120mm x 35mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical pin with 30mm radius and 55mm length", "cad": ["CYLINDER", "EXTRUDE"]}
+{"text": "a 80mm x 5mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical housing with 120mm radius and 20mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a 100mm base plate with 85mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a 150mm base plate with 125mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a 40mm base plate with 55mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a cylindrical housing with 80mm radius and 30mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a rectangular enclosure with 145mm x 85mm footprint and 5mm depth", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a 50mm x 85mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a spherical container with 50mm radius", "cad": ["CYLINDER", "EXTRUDE", "SPHERE"]}
+{"text": "a 55mm x 140mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical pin with 65mm radius and 15mm length", "cad": ["CYLINDER", "EXTRUDE"]}
+{"text": "a cylindrical housing with 120mm radius and 55mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a 20mm base plate with 60mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a 135mm base plate with 100mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a 60mm x 55mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a rectangular enclosure with 15mm x 120mm footprint and 110mm depth", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a 120mm base plate with 145mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a cylindrical housing with 75mm radius and 155mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical pin with 50mm radius and 80mm length", "cad": ["CYLINDER", "EXTRUDE"]}
+{"text": "a cylindrical housing with 120mm radius and 30mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical housing with 135mm radius and 25mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical housing with 75mm radius and 50mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a 80mm base plate with 35mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a cylindrical housing with 55mm radius and 110mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a 65mm x 70mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a 140mm x 55mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical housing with 15mm radius and 45mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical housing with 135mm radius and 15mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a rectangular enclosure with 40mm x 95mm footprint and 95mm depth", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical housing with 105mm radius and 50mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a box with 35mm sides and rounded corners", "cad": ["SKETCH_RECT", "BOX"]}
+{"text": "a 115mm x 150mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a 140mm base plate with 45mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a 130mm x 10mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a 120mm base plate with 90mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a 10mm x 30mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a 155mm base plate with 65mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a 85mm base plate with 75mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a cylindrical housing with 40mm radius and 135mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical housing with 30mm radius and 140mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a rectangular enclosure with 80mm x 80mm footprint and 50mm depth", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a 80mm base plate with 10mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a 45mm x 5mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a 15mm x 35mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a 50mm base plate with 35mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a cylindrical housing with 25mm radius and 70mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical pin with 75mm radius and 130mm length", "cad": ["CYLINDER", "EXTRUDE"]}
+{"text": "a cylindrical housing with 25mm radius and 105mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a rectangular enclosure with 85mm x 15mm footprint and 70mm depth", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a 50mm x 125mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical housing with 85mm radius and 115mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a 160mm base plate with 20mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a 80mm x 105mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a 75mm base plate with 5mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a cylindrical pin with 65mm radius and 155mm length", "cad": ["CYLINDER", "EXTRUDE"]}
+{"text": "a 135mm base plate with 120mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a mounting bracket holding a 135mm rod", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX", "CYLINDER"]}
+{"text": "a 40mm x 55mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical housing with 70mm radius and 155mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical housing with 70mm radius and 145mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a 45mm x 150mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a 15mm x 150mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a 85mm x 40mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical housing with 30mm radius and 60mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a 75mm x 25mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a rectangular enclosure with 25mm x 120mm footprint and 60mm depth", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical housing with 95mm radius and 25mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical housing with 120mm radius and 100mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a 50mm x 95mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a spherical container with 85mm radius", "cad": ["CYLINDER", "EXTRUDE", "SPHERE"]}
+{"text": "a 155mm x 35mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical housing with 55mm radius and 145mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a 70mm base plate with 160mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a 25mm base plate with 70mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a 105mm base plate with 40mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a 50mm x 120mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a mounting bracket holding a 115mm rod", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX", "CYLINDER"]}
+{"text": "a mounting bracket holding a 45mm rod", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX", "CYLINDER"]}
+{"text": "a cylindrical pin with 55mm radius and 45mm length", "cad": ["CYLINDER", "EXTRUDE"]}
+{"text": "a 85mm x 30mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a 10mm x 75mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a box with 30mm sides and rounded corners", "cad": ["SKETCH_RECT", "EXTRUDE"]}
+{"text": "a cylindrical housing with 110mm radius and 85mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical pin with 120mm radius and 150mm length", "cad": ["CYLINDER", "EXTRUDE"]}
+{"text": "a 80mm x 140mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a 30mm base plate with 60mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a 125mm base plate with 90mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a 120mm base plate with 85mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a 45mm base plate with 75mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a box with 135mm sides and rounded corners", "cad": ["SKETCH_RECT", "BOX"]}
+{"text": "a cylindrical housing with 40mm radius and 125mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a rectangular enclosure with 160mm x 155mm footprint and 25mm depth", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a 15mm base plate with 125mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a 80mm base plate with 100mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a cylindrical housing with 130mm radius and 90mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical pin with 140mm radius and 55mm length", "cad": ["CYLINDER"]}
+{"text": "a cylindrical housing with 115mm radius and 50mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a 110mm base plate with 20mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a 10mm x 125mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a 15mm x 80mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a 45mm x 130mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a 65mm base plate with 10mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a rectangular enclosure with 80mm x 75mm footprint and 35mm depth", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a rectangular enclosure with 145mm x 80mm footprint and 60mm depth", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a 130mm x 145mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a 25mm base plate with 110mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a 30mm x 120mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a box with 5mm sides and rounded corners", "cad": ["SKETCH_RECT", "EXTRUDE"]}
+{"text": "a 130mm x 15mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a 20mm x 105mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a 145mm x 35mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical housing with 130mm radius and 30mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical housing with 65mm radius and 25mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical housing with 110mm radius and 145mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a 145mm x 10mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a 160mm base plate with 90mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}
+{"text": "a cylindrical housing with 50mm radius and 75mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical housing with 100mm radius and 30mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a rectangular enclosure with 20mm x 65mm footprint and 65mm depth", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical housing with 155mm radius and 55mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a 155mm x 40mm steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a box with 115mm sides and rounded corners", "cad": ["SKETCH_RECT", "BOX"]}
+{"text": "a cylindrical housing with 150mm radius and 115mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a rectangular enclosure with 95mm x 75mm footprint and 40mm depth", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a rectangular enclosure with 95mm x 65mm footprint and 105mm depth", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a 115mm base plate with 135mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "SPHERE"]}

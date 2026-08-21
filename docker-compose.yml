@@ -1,0 +1,76 @@
+services:
+  cadgenesis-train:
+    image: cadgenesis/train:latest
+    build:
+      context: .
+      dockerfile: docker/Dockerfile
+    command: ["python", "-m", "cadgenesis.cli", "train", "--config", "configs/train.yaml"]
+    volumes:
+      - ./external/CADGenesis-Data:/data
+      - ./outputs:/outputs
+    environment:
+      - LOG_LEVEL=INFO
+      - CADGENESIS_OUTPUT_DIR=/outputs
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: all
+              capabilities: [gpu]
+
+  cadgenesis-serve:
+    image: cadgenesis/serve:latest
+    build:
+      context: .
+      dockerfile: docker/Dockerfile.serve
+    ports:
+      - "8000:8000"      # REST + SSE + WebSocket
+      - "50051:50051"    # gRPC (optional, requires --grpc-port)
+    volumes:
+      - ./outputs:/models:ro
+      - ./configs:/app/configs:ro
+      - cadgenesis-logs:/var/log/cadgenesis
+    environment:
+      - CADGENESIS_MODEL=/models/cadgenesis_train/best_checkpoint.pt
+      - CADGENESIS_REGISTRY=/models/registry
+      - CADGENESIS_AUDIT_LOG=/var/log/cadgenesis/audit.jsonl
+      - CADGENESIS_ADMIN_USER=admin
+      - CADGENESIS_ADMIN_PASSWORD=${CADGENESIS_ADMIN_PASSWORD:-admin}
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://127.0.0.1:8000/healthz', timeout=4)"]
+      interval: 30s
+      timeout: 5s
+      start_period: 30s
+      retries: 3
+    depends_on:
+      - cadgenesis-train
+
+  prometheus:
+    image: prom/prometheus:v2.51.0
+    ports:
+      - "9090:9090"
+    volumes:
+      - ./deploy/monitoring/prometheus.yml:/etc/prometheus/prometheus.yml:ro
+      - prometheus-data:/prometheus
+    command:
+      - --config.file=/etc/prometheus/prometheus.yml
+      - --storage.tsdb.path=/prometheus
+    depends_on:
+      - cadgenesis-serve
+
+  grafana:
+    image: grafana/grafana:10.4.0
+    ports:
+      - "3000:3000"
+    environment:
+      - GF_SECURITY_ADMIN_PASSWORD=${GRAFANA_ADMIN_PASSWORD:-admin}
+    volumes:
+      - grafana-data:/var/lib/grafana
+    depends_on:
+      - prometheus
+
+volumes:
+  cadgenesis-logs:
+  prometheus-data:
+  grafana-data:

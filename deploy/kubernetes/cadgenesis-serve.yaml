@@ -1,0 +1,120 @@
+# CADGenesis-LM serving Deployment (Pillar 11 Kubernetes deployment)
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: cadgenesis-serve
+  labels:
+    app: cadgenesis
+    component: serve
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: cadgenesis
+      component: serve
+  template:
+    metadata:
+      labels:
+        app: cadgenesis
+        component: serve
+    spec:
+      securityContext:
+        runAsUser: 1000
+        fsGroup: 1000
+      containers:
+        - name: serve
+          image: cadgenesis/serve:latest
+          ports:
+            - containerPort: 8000
+            - containerPort: 50051
+          env:
+            - name: CADGENESIS_MODEL
+              value: /models/best_checkpoint.pt
+            - name: CADGENESIS_REGISTRY
+              value: /models/registry
+            - name: CADGENESIS_AUDIT_LOG
+              value: /var/log/cadgenesis/audit.jsonl
+            - name: CADGENESIS_ADMIN_PASSWORD
+              valueFrom:
+                secretKeyRef:
+                  name: cadgenesis-auth
+                  key: admin-password
+          volumeMounts:
+            - name: models
+              mountPath: /models
+              readOnly: true
+            - name: logs
+              mountPath: /var/log/cadgenesis
+          livenessProbe:
+            httpGet:
+              path: /healthz
+              port: 8000
+            initialDelaySeconds: 30
+            periodSeconds: 30
+          readinessProbe:
+            httpGet:
+              path: /readyz
+              port: 8000
+            initialDelaySeconds: 10
+            periodSeconds: 10
+          resources:
+            requests:
+              cpu: 500m
+              memory: 1Gi
+            limits:
+              cpu: "2"
+              memory: 8Gi
+      volumes:
+        - name: models
+          persistentVolumeClaim:
+            claimName: cadgenesis-models
+        - name: logs
+          emptyDir: {}
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: cadgenesis-serve
+  labels:
+    app: cadgenesis
+    component: serve
+spec:
+  selector:
+    app: cadgenesis
+    component: serve
+  ports:
+    - name: http
+      port: 8000
+      targetPort: 8000
+    - name: grpc
+      port: 50051
+      targetPort: 50051
+---
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  name: cadgenesis-models
+spec:
+  accessModes: ["ReadOnlyMany"]
+  resources:
+    requests:
+      storage: 20Gi
+---
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: cadgenesis-serve
+  annotations:
+    nginx.ingress.kubernetes.io/proxy-body-size: "50m"
+spec:
+  rules:
+    - host: cadgenesis.example.com
+      http:
+        paths:
+          - path: /
+            pathType: Prefix
+            backend:
+              service:
+                name: cadgenesis-serve
+                port:
+                  name: http

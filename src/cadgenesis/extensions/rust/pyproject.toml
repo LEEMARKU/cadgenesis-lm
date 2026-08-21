@@ -1,0 +1,85 @@
+
+use pyo3::prelude::*;
+
+/// Safe agent state computation with explicit lifetime management.
+/// 
+/// This function demonstrates the Rust integration pattern for
+/// CADGenesis-LM agent operations, providing memory-safe
+/// computation that avoids common Python GIL-related issues.
+#[pyfunction]
+fn compute_agent_state(
+    agent_ids: Vec<i32>,
+    context_embeddings: Vec<f32>,
+) -> PyResult<Vec<f32>> {
+    // In a real implementation, this would perform
+    // memory-safe agent state computation
+    let result: Vec<f32> = agent_ids
+        .iter()
+        .map(|&id| {
+            // Safe computation - no manual memory management
+            id as f32 * 0.5 + context_embeddings.first().copied().unwrap_or(0.0)
+        })
+        .collect();
+    Ok(result)
+}
+
+/// Memory-efficient CAD operation pipeline stage.
+/// 
+/// Rust's zero-cost abstractions and guaranteed memory safety
+/// make it ideal for critical CAD pipeline components.
+#[pyfunction]
+fn safe_cad_operation(
+    operation_type: &str,
+    parameters: Vec<f64>,
+) -> PyResult<Vec<f64>> {
+    // Safe operation execution with compile-time guarantees
+    let result: Vec<f64> = parameters
+        .iter()
+        .map(|p| {
+            // Example safe computation
+            p * 2.0
+        })
+        .collect();
+    Ok(result)
+}
+
+/// Initialize the Rust extension module.
+/// 
+/// This is called by Python when the extension is loaded.
+#[pymodule]
+fn cadgenesis_rust_ext(_py: Python, m: &PyModule) -> PyResult<()> {
+    m.add_function(wrap_pyfunction!(compute_agent_state, m)?)?
+        .add_doc("Compute agent state safely using Rust")?;
+    
+    m.add_function(wrap_pyfunction!(safe_cad_operation, m)?)?
+        .add_doc("Execute CAD operation safely in Rust")?;
+    
+    Ok(())
+}
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+
+    #[test]
+    fn test_compute_agent_state() {
+        let ids = vec![1, 2, 3];
+        let ctx = vec![0.5, 0.7, 0.9];
+        let result = compute_agent_state(ids, ctx).unwrap();
+        assert_eq!(result.len(), 3);
+        // 1*0.5+0.5=1.0, 2*0.5+0.5=1.5, 3*0.5+0.5=2.0
+        assert!((result[0] - 1.0).abs() < 1e-10);
+        assert!((result[1] - 1.5).abs() < 1e-10);
+        assert!((result[2] - 2.0).abs() < 1e-10);
+    }
+
+    #[test]
+    fn test_safe_cad_operation() {
+        let params = vec![1.0, 2.0, 3.0];
+        let result = safe_cad_operation("test", params).unwrap();
+        assert_eq!(result.len(), 3);
+        assert!((result[0] - 2.0).abs() < 1e-10);
+        assert!((result[1] - 4.0).abs() < 1e-10);
+        assert!((result[2] - 6.0).abs() < 1e-10);
+    }
+}

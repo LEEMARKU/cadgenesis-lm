@@ -1,0 +1,25 @@
+{
+  "id": "exp_1786950673_3a7af6ee",
+  "name": "smoke",
+  "created_at": 1786950673.731037,
+  "status": "running",
+  "hyperparams": {
+    "optimizer": "adamw",
+    "scheduler": "cosine",
+    "learning_rate": 0.0003,
+    "weight_decay": 0.01,
+    "batch_size": 64,
+    "epochs": 1,
+    "warmup_steps": 0,
+    "adapter": "none",
+    "architecture": "geometry_aware_transformer",
+    "seed": 42,
+    "extra": {}
+  },
+  "metrics": {},
+  "metadata": {},
+  "notes": [],
+  "artifacts": [],
+  "best_metric": null,
+  "best_metric_name": "loss"
+}

@@ -1,0 +1,5 @@
+PASS: cadgenesis.adapters.lora
+PASS: cadgenesis.adapters.manager
+PASS: cadgenesis.confidence.confidence
+PASS: cadgenesis.serving.api
+PASS: cadgenesis.transformer.geometry_transformer

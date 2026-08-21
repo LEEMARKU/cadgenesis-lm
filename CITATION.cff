@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use CADGenesis-LM in your research, please cite it as follows."
+title: "CADGenesis-LM"
+abstract: "A Self-Evolving Neuro-Symbolic Geometry Foundation Model for Generative Parametric CAD Design."
+version: "2.0.0"
+date-released: "2026-08-03"
+authors:
+  - name: "CADGenesis Team"
+license: "MIT"
+keywords:
+  - "CAD"
+  - "geometry foundation model"
+  - "generative design"
+  - "transformer"
+  - "neuro-symbolic"

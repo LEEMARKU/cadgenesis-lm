@@ -1,0 +1,7 @@
+{
+  "n": 103,
+  "synthetic": 100,
+  "manual": 3,
+  "seed": 999,
+  "leakage_policy": "seed disjoint from curriculum seed 0"
+}

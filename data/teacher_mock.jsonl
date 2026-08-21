@@ -1,0 +1,4 @@
+{"text": "a steel box", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX"]}
+{"text": "a cylindrical housing with 50mm radius and 55mm height", "cad": ["CYLINDER", "EXTRUDE", "BOX"]}
+{"text": "a mounting bracket holding a 20mm rod", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX", "CYLINDER"]}
+{"text": "a 115mm base plate with 135mm spherical feet", "cad": ["SKETCH_RECT", "EXTRUDE", "BOX", "SPHERE"]}

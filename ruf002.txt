@@ -1,0 +1,34 @@
+﻿src\cadgenesis\tokenizer\cad_tokenizer.py:58:30: RUF002 Docstring contains ambiguous `??` (MULTIPLICATION SIGN). Did you mean `x` (LATIN SMALL LETTER X)?
+
+src\cadgenesis\tokenizer\cad_tokenizer.py:66:28: RUF002 Docstring contains ambiguous `??` (MULTIPLICATION SIGN). Did you mean `x` (LATIN SMALL LETTER X)?
+
+src\cadgenesis\tokenizer\cad_tokenizer.py:542:21: RUF002 Docstring contains ambiguous `???` (MINUS SIGN). Did you mean `-` (HYPHEN-MINUS)?
+
+src\cadgenesis\tokenizer\numeric.py:181:32: RUF002 Docstring contains ambiguous `???` (EN DASH). Did you mean `-` (HYPHEN-MINUS)?
+
+src\cadgenesis\tokenizer\numeric.py:189:53: RUF002 Docstring contains ambiguous `???` (EN DASH). Did you mean `-` (HYPHEN-MINUS)?
+
+src\cadgenesis\tokenizer\statistics.py:104:59: RUF002 Docstring contains ambiguous `???` (MINUS SIGN). Did you mean `-` (HYPHEN-MINUS)?
+
+src\cadgenesis\tokenizer\vocabulary.py:19:45: RUF002 Docstring contains ambiguous `???` (EN DASH). Did you mean `-` (HYPHEN-MINUS)?
+
+src\cadgenesis\tokenizer\vocabulary.py:20:45: RUF002 Docstring contains ambiguous `???` (EN DASH). Did you mean `-` (HYPHEN-MINUS)?
+
+src\cadgenesis\tokenizer\vocabulary.py:21:46: RUF002 Docstring contains ambiguous `???` (EN DASH). Did you mean `-` (HYPHEN-MINUS)?
+
+src\cadgenesis\tokenizer\vocabulary.py:22:46: RUF002 Docstring contains ambiguous `???` (EN DASH). Did you mean `-` (HYPHEN-MINUS)?
+
+src\cadgenesis\tokenizer\vocabulary.py:23:46: RUF002 Docstring contains ambiguous `???` (EN DASH). Did you mean `-` (HYPHEN-MINUS)?
+
+src\cadgenesis\tokenizer\vocabulary.py:24:46: RUF002 Docstring contains ambiguous `???` (EN DASH). Did you mean `-` (HYPHEN-MINUS)?
+
+src\cadgenesis\tokenizer\vocabulary.py:25:46: RUF002 Docstring contains ambiguous `???` (EN DASH). Did you mean `-` (HYPHEN-MINUS)?
+
+src\cadgenesis\tokenizer\vocabulary.py:26:46: RUF002 Docstring contains ambiguous `???` (EN DASH). Did you mean `-` (HYPHEN-MINUS)?
+
+src\cadgenesis\tokenizer\vocabulary.py:27:46: RUF002 Docstring contains ambiguous `???` (EN DASH). Did you mean `-` (HYPHEN-MINUS)?
+
+src\cadgenesis\tokenizer\vocabulary.py:28:46: RUF002 Docstring contains ambiguous `???` (EN DASH). Did you mean `-` (HYPHEN-MINUS)?
+
+src\cadgenesis\transformer\self_designing\adaptive_heads.py:16:14: RUF002 Docstring contains ambiguous `??` (MULTIPLICATION SIGN). Did you mean `x` (LATIN SMALL LETTER X)?
+

@@ -1,0 +1,14 @@
+# Development dependencies for CADGenesis-LM
+-r requirements.txt
+
+# Testing
+pytest>=7.4
+pytest-cov>=4.1
+
+# Linting / typing
+ruff>=0.4
+mypy>=1.8
+
+# Build / packaging
+setuptools>=68
+wheel
